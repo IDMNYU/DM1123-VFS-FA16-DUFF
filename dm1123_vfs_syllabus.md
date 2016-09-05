@@ -169,9 +169,10 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED BOOKS
 
-These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
+These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. 
 
 * [Graphic Design: The New Basics: Second Edition, Revised and Expanded](https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=sr_1_1?ie=UTF8&qid=1473101938&sr=8-1&keywords=graphic+design+new+basics+2nd+edition) by Ellen Lupton and Jennifer Cole Phillips
+  * The first edition of this book is available as an online book via http://bobcat.library.nyu.edu. Reading the first edition is totally fine.
 * [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558) by Jim Krause
 * [Notes on Color Theory](https://www.amazon.com/Design-Fundamentals-Notes-Color-Theory/dp/0321969073/) by Rose Gonnella
 
