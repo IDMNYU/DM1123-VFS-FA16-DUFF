@@ -103,7 +103,7 @@
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
-  <li>**(OPTIONAL)** Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
+  <li><b>(OPTIONAL)</b> Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   </ul></td>
 </table>
 
