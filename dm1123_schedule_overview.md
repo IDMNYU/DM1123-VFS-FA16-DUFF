@@ -52,8 +52,8 @@
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong>PHYSICAL APP 1st Draft</strong> (Half of Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
-        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong>PHYSICAL APP 1st Draft</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft</strong> (Half of Class)</td>
     </tr>
     <tr>
         <td>9</td>      
