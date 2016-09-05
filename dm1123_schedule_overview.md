@@ -80,13 +80,13 @@
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>INTERFACE Final: High-Fidelity Prototype</strong>(Entire Class)</td>
+        <td>Nov 29<br><strong>INTERFACE Final: High-Fidelity Prototype</strong> (Entire Class)</td>
         <td>Dec 1<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
     </tr>
     <tr>
         <td>14</td>    
         <td>Dec 6<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong>(Half of Class; Students printing extra credit book should present on this day.)</td>
+        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong> (Half of Class; Students printing extra credit book should present on this day.)</td>
     </tr>
     <tr>
         <td>15</td>     
