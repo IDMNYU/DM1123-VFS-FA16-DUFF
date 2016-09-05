@@ -90,7 +90,7 @@
   <td><ul>
   <li>Accept Slack Invitation</li>
   <li>Complete VFS Knowledge Survey</li>
-  <li>Read Syllabus and ask questions about the syllabus during our first class</li>
+  <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
   </ul></td>
   <td valign="top">
   <ul>
