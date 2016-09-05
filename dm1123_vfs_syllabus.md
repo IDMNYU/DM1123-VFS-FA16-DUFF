@@ -157,7 +157,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
-Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Librarysee the Library staff for further assistance.
+Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Library. See the Library staff for further assistance.
 
 
 ### REQUIRED SUPPLIES
@@ -171,10 +171,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
 
-* Graphic Design: The New Basics: Second Edition, Revised and Expanded Paperback by Ellen Lupton and Jennifer Cole Phillips
-Publisher: Princeton Architectural Press; 2 Rev Upd edition (July 14, 2015)
-ISBN-10: 161689332X
-
+* [Graphic Design: The New Basics: Second Edition, Revised and Expanded](https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=sr_1_1?ie=UTF8&qid=1473101938&sr=8-1&keywords=graphic+design+new+basics+2nd+edition) by Ellen Lupton and Jennifer Cole Phillips
 * [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558) by Jim Krause
 * [Notes on Color Theory](https://www.amazon.com/Design-Fundamentals-Notes-Color-Theory/dp/0321969073/) by Rose Gonnella
 
