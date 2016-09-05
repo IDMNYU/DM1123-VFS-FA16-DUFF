@@ -12,6 +12,7 @@ If you don’t already have server space, please attend one of the group registr
 
 Group registration for IDM server accounts will happen on the third Friday of each month throughout the semester.  Sessions will start at 1PM and end at 5PM.
 
+* Friday September 9, room 811 at MAGNET
 * Friday September 23, room 811 at MAGNET
 * Friday October 21, room 811 at MAGNET
 * Friday November 18, room 811 at MAGNET
