@@ -189,7 +189,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. dduff_vfs_fa14_logo1.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa16_assignmentname (i.e. dduff_vfs_fa16_logo1.pdf)
 
 See appendices for all of the following:
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
