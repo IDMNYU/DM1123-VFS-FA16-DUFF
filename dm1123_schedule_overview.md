@@ -100,6 +100,6 @@
     </tr>
 </table>
 
-Dec 16 and 19<br>
+Fri Dec 16 and Mon Dec 19<br>
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
 * **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
