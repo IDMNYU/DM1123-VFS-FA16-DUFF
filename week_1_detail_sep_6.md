@@ -93,7 +93,7 @@
   <li>If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs</li>
   <li>Alternatively create a vfs directory if you have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.</li>
   </ul>
-  <li>Post your wordpress or tumblr URL to the vfs_fa15 slack channel</li>
+  <li>Post your wordpress or tumblr URL to the vfs_fa16 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
