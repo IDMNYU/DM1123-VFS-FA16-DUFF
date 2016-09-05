@@ -99,6 +99,7 @@
         <td></td>
     </tr>
 </table>
+
 **Guest Lecture TBD**
 
 **Fri Dec 16 and Mon Dec 19**<br>
