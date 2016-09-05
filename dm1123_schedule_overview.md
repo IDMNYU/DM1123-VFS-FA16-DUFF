@@ -86,12 +86,12 @@
     <tr>
         <td>14</td>    
         <td>Dec 6<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong> (Half of Class; Students printing extra credit book should present on this day.)</td>
+        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong> (Other Half of Class)</td>
+        <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>16</td>
