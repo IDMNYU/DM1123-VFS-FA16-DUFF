@@ -80,6 +80,31 @@
   </ul>
   </td>
 </tr>
+
+<!-- do -->
+<tr>
+  <td valign="top">do</td>
+  <td valign="top">
+  <ul>
+  <li>Get setup with a website to post your homework</li>
+  <ul>
+  <li>Create a dedicated tumblr for this course only.</li>
+  <li><a href="dm1123idm_coursework_documentation.md">wordpress via sites.bxmc.poly.edu</a> in a directory labeled vfs</li> 
+  <li>If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs</li>
+  <li>Alternatively create a vfs directory if you have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.</li>
+  </ul>
+  <li>Post your wordpress or tumblr URL to the vfs_fa15 slack channel</li>
+  <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
+  <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
+  </ul>
+  <strong>Do <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <ul>
+  
+  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
+  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
+  <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
+  <li>**(OPTIONAL)** Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
+  </ul></td>
 </table>
 
 
