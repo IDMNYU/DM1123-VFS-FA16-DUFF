@@ -58,14 +58,14 @@
     <tr>
         <td>9</td>      
         <td valign="top">Nov 1<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
-        <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></td>
+        <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
+        <td>Nov 8<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
         <td>Nov 10<br><strong>INTERFACE Visual Design 1st Draft</strong> (Half of Class)</td>
     </tr>
     <tr>
