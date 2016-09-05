@@ -42,7 +42,7 @@
 
 </ul>
 
-<strong>VFS Knowledge Survey</strong><br><br>
+><br>
 
 
 
@@ -74,7 +74,7 @@
 
 
   <td valign="top">read</td>
-  <td></td>
+  <td><ul><li>Accept Slack Invitation</li><li><strong>Complete VFS Knowledge Survey</strong></li></td>
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
