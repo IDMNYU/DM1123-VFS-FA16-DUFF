@@ -42,12 +42,9 @@
 
 </ul>
 
-><br>
-
-
-
-
 </ul></td>
+
+<!-- 2nd column class -->
 <td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN</strong>
   <ul>
   
