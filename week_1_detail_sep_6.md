@@ -74,7 +74,7 @@
 
 
   <td valign="top">read</td>
-  <td><ul><li>Accept Slack Invitation</li><li><strong>Complete VFS Knowledge Survey</strong></li></td>
+  <td><ul><li>Accept Slack Invitation</li><li><Complete VFS Knowledge Survey</li></ul></td>
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
