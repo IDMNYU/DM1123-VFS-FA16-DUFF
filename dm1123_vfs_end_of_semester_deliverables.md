@@ -34,7 +34,7 @@ FILE > CREATE > COMBINE INTO A SINGLE PDF
 or using Preview (Drag and Drop with thumbnail panel)
 
 
-## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
+## (instead of PDF, OPTIONAL) END OF SEMESTER BOOK REQUIREMENTS
 
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
