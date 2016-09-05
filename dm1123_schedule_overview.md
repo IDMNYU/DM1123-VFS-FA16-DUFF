@@ -65,8 +65,8 @@
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>INTERFACE Wireframes 1st Draft</strong></td>
-        <td>Nov 10<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
+        <td>Nov 8<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
+        <td>Nov 10<br><strong>INTERFACE Visual Design 1st Draft</strong></td>
     </tr>
     <tr>
         <td>11</td>   
@@ -75,23 +75,23 @@
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Nov 22<br><strong>INTERFACE Visual Design 1st Draft</strong></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
-        <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
+        <td>Nov 29<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Dec 1<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br><strong>PDF or BOOK 1st DRAFT</strong></td>
-        <td>Dec 8<br><strong>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 6<br><strong>PHYSICAL APP FINAL</strong></td>
+        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong></td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 13<br><strong>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</strong></td>  
-        <td>Dec 15<br><strong>Last Day of Class</strong></td>
+        <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
