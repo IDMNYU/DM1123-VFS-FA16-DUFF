@@ -107,8 +107,8 @@ Of The Course
   * Graphic Design: The New Basics
   * Type On Screen
 
-## LETTER TO NEXT COHORT
+## LETTER OR VIDEO TO NEXT COHORT
 
 *As a pdf, direct message to deangela on Slack.*
 
-Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
+Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
