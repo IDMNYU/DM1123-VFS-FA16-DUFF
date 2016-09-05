@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <td>15</td>     
-        <td>Dec 13<br><strong>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</strong></td>  
+        <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
         <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong> (Other Half of Class)</td>
     </tr>
     <tr>
