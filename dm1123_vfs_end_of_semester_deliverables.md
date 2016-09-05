@@ -109,7 +109,7 @@ Of The Course
 
 ## LETTER OR VIDEO TO NEXT COHORT
 
-*If letter direct message a pdf to deangela on Slack.<br>
+*If letter, direct message a pdf to deangela on Slack.<br>
 If video, dropbox video to deangela on Slack.*
 
 Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
