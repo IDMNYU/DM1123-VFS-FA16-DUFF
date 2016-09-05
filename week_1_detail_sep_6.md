@@ -72,6 +72,7 @@
 <!-- homework -->
 <tr>
 <td></td>
+<td></td>
   <td valign="top">read</td>
   <td>
   <strong>Graphic Design The New Basics</strong>
@@ -79,7 +80,7 @@
   <li>Color</li>
   </ul>
   </td>
-  <td></td>
+  
 </tr>
 
 <!-- do -->
