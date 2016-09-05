@@ -45,7 +45,8 @@
 </ul></td>
 
 <!-- 2nd column class -->
-<td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN</strong>
+<td valign="top" width="48%">
+<strong>GOOD VS. BAD DESIGN</strong>
   <ul>
   
   <li>Assign remaining creator Show &amp; Tells</li>
