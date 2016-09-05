@@ -61,7 +61,7 @@
         <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></td>
     </tr>
      <tr>
-        <td colspan="3">Nov 7<br><i>Last Day to Withdraw</i></td>
+        <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
     </tr>
     <tr>
         <td>10</td>     
