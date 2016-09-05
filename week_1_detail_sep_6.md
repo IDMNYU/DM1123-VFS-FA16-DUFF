@@ -74,7 +74,7 @@
 
 
   <td valign="top">read</td>
-  <td><ul><li>Accept Slack Invitation</li><li><Complete VFS Knowledge Survey</li></ul></td>
+  <td></td>
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
@@ -87,7 +87,11 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td></td>
+  <td><ul>
+  <li>Accept Slack Invitation</li>
+  <li>Complete VFS Knowledge Survey</li>
+  <li>Read Syllabus and ask questions about the syllabus during our first class</li>
+  </ul></td>
   <td valign="top">
   <ul>
   <li>Get setup with a website to post your homework</li>
