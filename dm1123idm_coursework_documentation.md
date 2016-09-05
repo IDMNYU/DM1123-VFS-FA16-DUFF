@@ -4,7 +4,6 @@
 
 # IDM COURSEWORK DOCUMENTATION
 * You have a choice between wordpress and tumblr.
-
 * Add your coursework documentation URL to slack in the VFS channel.
 
 Ideally, we would like all students to document their IDM coursework on sites.bxmc.poly.edu. We want you to archive your work on sites.bxmc.poly.edu because these are IDM servers. If your work is archived on your personal servers, there is a possibility that you would delete your archives after you graduate or even sooner.
