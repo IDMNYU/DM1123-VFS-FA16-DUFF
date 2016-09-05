@@ -79,6 +79,7 @@
   <li>Color</li>
   </ul>
   </td>
+  <td></td>
 </tr>
 
 <!-- do -->
