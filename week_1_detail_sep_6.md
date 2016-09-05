@@ -25,7 +25,7 @@
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Syllabus</li>
 <ul>
- <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook</li>
+ <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
