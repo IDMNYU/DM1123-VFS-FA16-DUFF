@@ -78,6 +78,7 @@
   <ul>
   <li>Color</li>
   </ul>
+  <strong>Notes on Color Theory</strong>
   </td>
   
 </tr>
