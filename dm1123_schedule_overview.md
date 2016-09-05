@@ -23,7 +23,7 @@
         <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br><strong>Components: Image</strong><br><br>Show and Tells: Stefan Sagmeister, Andy Warhol and Paula Scher</td>
     </tr>
     <tr>
-        <td colspan="3">Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td>
+        <td colspan=3>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td>
     </tr
     <tr>
         <td>3</td> 
