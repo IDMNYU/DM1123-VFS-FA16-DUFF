@@ -69,8 +69,6 @@
 
 <!-- homework -->
 <tr>
-
-
   <td valign="top">read</td>
   <td></td>
   <td>
