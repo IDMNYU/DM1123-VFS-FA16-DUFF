@@ -111,7 +111,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 5% creator show and tell
 * 5% midterm (final logo) self assessment and rubric
 * 5% letter to next cohort, final self assessment and rubric
-* 5% IDM coursework documentation on sites.bxmc.poly.edu
+* 5% IDM coursework documentation
 
 
 ##### Qualitative Grading Overview
