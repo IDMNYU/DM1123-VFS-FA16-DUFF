@@ -47,6 +47,50 @@
 
 
 </ul></td>
+<td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN</strong>
+  <ul>
+  
+  <li>Assign remaining creator Show &amp; Tells</li>
+  <Li>Review Assignment: Good & Bad</li>
+  <li>Review assignment: Color</li>
+  </ul>
+  <strong>COMPONENTS: COLOR</strong>
+<ul>
+  <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
+  <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
+  <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
+  <li><a href="http://0to255.com" target="_blank">0to255</a></li>
+  <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
+ </ul>
+ 
+  </ul>
+  </td>
+  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
+    <ul>
+<li>Creator Show &amp; Tells due: 
+  <ul>
+  <li>David Carson (Spencer & Dylan)</li>
+  <li>Nicolas Felton (Fannie & Tiffany L.)</li>
+  </ul>
+  
+    <li>Review reading (Type vs. Typeface vs. Font)</li>
+    <li>Review assignment: Typefaces</li>
+    <li><a href="dm1123_vfs_recommended_resources.md" target="_blank">Review resources: Type</a></li>
+    
+    </ul>
+  </td>
+</tr>
+
+<!-- homework -->
+<tr>
+<td></td>
+  <td valign="top">read</td>
+  <td>
+  <strong>Graphic Design The New Basics</strong>
+  <ul>
+  <li>Color</li>
+  </ul>
+  </td>
 </tr>
 </table>
 
