@@ -91,11 +91,11 @@
     <tr>
         <td>15</td>     
         <td>Dec 13<br><strong>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</strong></td>  
-        <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 15<br><strong>Last Day of Class<br>PDF or BOOK 2nd DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br><strong>Last Day of Class<br>Final PDF or Book</strong></td>
+        <td>Dec 20<br><strong>Final PDF or Book</strong></td>
         <td></td>
     </tr>
 </table>
