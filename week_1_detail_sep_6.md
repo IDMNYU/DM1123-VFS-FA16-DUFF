@@ -71,9 +71,10 @@
 
 <!-- homework -->
 <tr>
-<td></td>
-<td></td>
+
+
   <td valign="top">read</td>
+  <td></td>
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
@@ -86,6 +87,7 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
+  <td></td>
   <td valign="top">
   <ul>
   <li>Get setup with a website to post your homework</li>
