@@ -171,8 +171,12 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
 
-* Graphic Design: The New Basics by Ellen Lupton*#
-* *
+* Graphic Design: The New Basics: Second Edition, Revised and Expanded Paperback by Ellen Lupton and Jennifer Cole Phillips
+Publisher: Princeton Architectural Press; 2 Rev Upd edition (July 14, 2015)
+ISBN-10: 161689332X
+
+* [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558) by Jim Krause
+* [Notes on Color Theory](https://www.amazon.com/Design-Fundamentals-Notes-Color-Theory/dp/0321969073/) by Rose Gonnella
 
 
 ### REQUIRED SOFTWARE
@@ -180,6 +184,7 @@ These books (*) are available for purchase in the NYU bookstore, and will be on 
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe Indesign
+* Adobe Acrobat or Preview
 
 
 ### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
