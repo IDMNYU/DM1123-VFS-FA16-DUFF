@@ -7,20 +7,7 @@
 
 Subject | Team | Date
 --- | --- | ---
-Nicholas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
-David Carson (type & image) | Spencer & Dylan |  Sep 8
-Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep 15
-Paula Scher (type & image) | Jamie & Jaiwei | Sep 15
-Andy Warhol (image) | Maria & Polina | Sep 15
-Josef Muller-Brockman (composition / the grid) | Ali & Alexis | Sep. 22 
-Aleksander Rodchenko (composition & photography) | Bobby & Dylan | Sep. 22
-Tibor Kalman (concept / image) | Stefon & Anna | Sep 22
-Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 22
-Saul Bass (for logos, not film titles) | Tim & DongNing | Sep 24
-Shepard Fairey (semiotics) | Cadence & Spencer | Sep 24
-Art Chantry (music / punk aesthetic) | Polina & Maria | Oct. 29
-Peter Saville (music / punk aesthetic) | Kyleel & Anna | Oct. 29
-Chip Kidd (book jackets) | Cadence & Jun | Oct. 29
+ |  | 
 
 #### CREATOR SHOW & TELLS Directions
 * Pair up w/ 1 classmate
