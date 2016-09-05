@@ -5,7 +5,7 @@
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
     Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly before class 
+    Office hours by appointment or directly after class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: None
