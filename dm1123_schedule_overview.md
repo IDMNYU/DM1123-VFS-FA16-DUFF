@@ -3,9 +3,9 @@
 
 ---
 
-*All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.
+**All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
-*Gitbook & Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.***
+*Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
 <table>
     <tr>
         <th width="4%">wk</th>
