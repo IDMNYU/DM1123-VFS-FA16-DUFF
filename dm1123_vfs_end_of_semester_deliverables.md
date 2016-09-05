@@ -11,7 +11,7 @@ PDF Cover:
 * Your first and last name
 * Your Logo
 * The Name of Your Project
-* Visual Foundation Studio 2014 or VFS 2014 
+* Visual Foundation Studio Fall 2016 or VFS Fall 2016 
 
 Before each assignment, a header that labels each project (See below.)
 * 01 Logo–1st draft
