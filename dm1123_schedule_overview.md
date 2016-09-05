@@ -80,7 +80,7 @@
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Nov 29<br><strong>INTERFACE Final: High-Fidelity Prototype</strong>(Entire Class)</td>
         <td>Dec 1<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
     </tr>
     <tr>
