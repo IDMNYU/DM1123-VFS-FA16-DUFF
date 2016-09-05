@@ -7,18 +7,7 @@
 
 Brand | Team 
 --- | --- 
-Coca Cola | Polina & Maria
-Apple Computer | Cadence & Spencer
-Macy's | Alexis & Ali 
-McDonald's | Chrystal & Tiffany L.
-Legos | DongNing & Tim
-Disney | Fannie & Tiffany S.
-Haier | Jamie & Jiawei
-Microsoft Windows | Stefon & Anna
-AT&T | Jun & Kyleel
-Mountain Dew | Dylan & Bobby
-
-
+ |
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
