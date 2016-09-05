@@ -100,7 +100,7 @@
     </tr>
 </table>
 
-**Guest Lecture TBD**
+**Guest Presentation TBD**
 
 **Fri Dec 16 and Mon Dec 19**<br>
 * INDIVIDUAL ONE on ONES (To Be Scheduled)
