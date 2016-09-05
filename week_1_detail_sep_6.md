@@ -29,6 +29,7 @@
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
+<li>Assign Show &amp; Tells</li>
 </ul>
 
 
@@ -65,20 +66,7 @@
  
   </ul>
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
-    <ul>
-<li>Creator Show &amp; Tells due: 
-  <ul>
-  <li>David Carson (Spencer & Dylan)</li>
-  <li>Nicolas Felton (Fannie & Tiffany L.)</li>
-  </ul>
-  
-    <li>Review reading (Type vs. Typeface vs. Font)</li>
-    <li>Review assignment: Typefaces</li>
-    <li><a href="dm1123_vfs_recommended_resources.md" target="_blank">Review resources: Type</a></li>
-    
-    </ul>
-  </td>
+ 
 </tr>
 
 <!-- homework -->
