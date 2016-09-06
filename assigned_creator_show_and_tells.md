@@ -7,7 +7,20 @@
 
 Subject | Team | Date
 --- | --- | ---
- |  | 
+Nicholas Felton (data visualization) |
+David Carson (type & image) | 
+Stefan Sagmeister (type & image) | 
+Paula Scher (type & image) | 
+Andy Warhol (image) | 
+Josef Muller-Brockman (composition / the grid) | 
+Aleksander Rodchenko (composition & photography) | 
+Tibor Kalman (concept / image) | 
+Barbara Krueger (type & image) | 
+Saul Bass (for logos, not film titles) | 
+Shepard Fairey (semiotics) | 
+Art Chantry (music / punk aesthetic) | 
+Peter Saville (music / punk aesthetic) | 
+Chip Kidd (book jackets) | 
 
 #### CREATOR SHOW & TELLS Directions
 * Pair up w/ 1 classmate
