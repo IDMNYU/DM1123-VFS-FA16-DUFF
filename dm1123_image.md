@@ -19,7 +19,7 @@
 
 * an image that illustrates the concept of **scale** (reference Graphic Design: Scale)
 
-* an image with **contrast or a strong figure / ground** relationship (reference, Graphic Design: Figure/Ground (1st Edition), Gestalt Theory (2nd Edition))
+* an image with **contrast or a strong figure / ground** relationship (reference, Graphic Design: Figure/Ground (1st Edition), Gestalt Principles (2nd Edition))
 
 * an image with a **frame within a frame** (reference, Graphic Design: The New Basics, Framing)
 
