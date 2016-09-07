@@ -8,9 +8,9 @@
 
 
 * **Discuss the image’s color context, also known as value & intensity**
-  * Shade, Tint, or Saturation (Consult GD Color Chapter)
+  * Shade, Tint, or Saturation (Consult Graphic Design: The New Basics, Color)
 
 
 * **Discuss the image’s color context**
-  * Primary, Secondary, Tertiary, Complementary, and Analogous (Consult GD Color Chapter)
+  * Primary, Secondary, Tertiary, Complementary, and Analogous (Consult Graphic Design: The New Basics, Color)
 
