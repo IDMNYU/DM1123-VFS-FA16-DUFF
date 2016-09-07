@@ -112,6 +112,8 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * MyFonts – http://www.myfonts.com
   * Émigre – http://emigre.com
   * House Industries – http://houseindustries.com
+  * Practical Typography - http://practicaltypography.com
+  * Thinking With Type - http://www.thinkingwithtype.com
   * T-26 fonts – http://t26.com
   
 
