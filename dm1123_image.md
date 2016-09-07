@@ -21,15 +21,15 @@
 
 * an image with **contrast or a strong figure / ground** relationship (reference, Graphic Design: Figure/Ground (1st Edition), Gestalt Principles (2nd Edition))
 
-* an image with a **frame within a frame** (reference, Graphic Design: The New Basics, Framing)
+* an image with a **frame within a frame** (reference Graphic Design: The New Basics, Framing)
 
-* an image with a **margin or partial bleed** (reference, Graphic Design: The New Basics, Framing)
+* an image with a **margin or partial bleed** (reference Graphic Design: The New Basics, Framing)
 
-* an image with a **full bleed** (reference, Graphic Design: The New Basics, Framing)
+* an image with a **full bleed** (reference Graphic Design: The New Basics, Framing)
 
-* an image with **text over image** (reference, Graphic Design: The New Basics, Framing)
+* an image with **text over image** (reference Graphic Design: The New Basics, Framing)
 
-* an image with a **border** (reference, Graphic Design: The New Basics, Framing)
+* an image with a **border** (reference Graphic Design: The New Basics, Framing)
 
 
 
