@@ -20,7 +20,7 @@ Saul Bass (for logos, not film titles) |
 Shepard Fairey (semiotics) | 
 Art Chantry (music / punk aesthetic) | Lenay & Cheryl
 Peter Saville (music / punk aesthetic) | 
-Chip Kidd (book jackets) | 
+Chip Kidd (book jackets) | Julian & 
 
 #### CREATOR SHOW & TELLS Instructions
 * Pair up w/ 1 classmate
