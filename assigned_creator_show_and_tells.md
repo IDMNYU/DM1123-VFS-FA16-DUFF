@@ -18,11 +18,11 @@ Tibor Kalman (concept / image) |
 Barbara Krueger (type & image) | 
 Saul Bass (for logos, not film titles) | 
 Shepard Fairey (semiotics) | 
-Art Chantry (music / punk aesthetic) | Lenay
+Art Chantry (music / punk aesthetic) | Lenay &
 Peter Saville (music / punk aesthetic) | 
 Chip Kidd (book jackets) | 
 
-#### CREATOR SHOW & TELLS Directions
+#### CREATOR SHOW & TELLS Instructions
 * Pair up w/ 1 classmate
 * Select an artist, designer, or collective from the list above.
 * Specific show & tell due dates will be outlined in the schedule and announced the week before they are due.
