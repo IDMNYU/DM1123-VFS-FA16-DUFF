@@ -3,14 +3,12 @@
 ---
 
 # Assignment: Color
+*(Consult Graphic Design: The New Basics, Color)*
 
-* **Post to wordpress or tumblr, an image or illustration which contains your favorite color palette**
+* Post to wordpress or tumblr, an image or illustration which contains **your favorite color palette**
 
-
-* **Discuss the image’s color context, also known as value & intensity**
-  * Shade, Tint, or Saturation (Consult Graphic Design: The New Basics, Color)
-
-
-* **Discuss the image’s color context**
-  * Primary, Secondary, Tertiary, Complementary, and Analogous (Consult Graphic Design: The New Basics, Color)
+    * **Discuss the image’s hue and brightness (value)**
+        * Shade, Tint, or Saturation 
+    * **Discuss the image’s color context**
+      * Primary, Secondary, Tertiary, Complementary, and Analogous 
 
