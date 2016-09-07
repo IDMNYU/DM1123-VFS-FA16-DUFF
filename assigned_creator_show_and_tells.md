@@ -5,8 +5,8 @@
 ### CREATOR SHOW & TELL Assignments
 
 
-Subject | Team | Date
---- | --- | ---
+Subject | Team 
+--- | --- 
 Nicholas Felton (data visualization) |
 David Carson (type & image) | 
 Stefan Sagmeister (type & image) | 
@@ -18,7 +18,7 @@ Tibor Kalman (concept / image) |
 Barbara Krueger (type & image) | 
 Saul Bass (for logos, not film titles) | 
 Shepard Fairey (semiotics) | 
-Art Chantry (music / punk aesthetic) | 
+Art Chantry (music / punk aesthetic) | Lenay
 Peter Saville (music / punk aesthetic) | 
 Chip Kidd (book jackets) | 
 
