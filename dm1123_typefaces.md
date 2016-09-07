@@ -10,7 +10,7 @@
   * Sans Serif
   * Script
   * Monospace
-  * Novelty or Display
+  * Display or Novelty 
   * Blackletter
   * Dingbat
  
