@@ -8,7 +8,7 @@
 Subject | Team 
 --- | --- 
 Nicholas Felton (data visualization) |
-David Carson (type & image) | 
+David Carson (type & image) | Asaf &
 Stefan Sagmeister (type & image) | 
 Paula Scher (type & image) | 
 Andy Warhol (image) | 
@@ -18,7 +18,7 @@ Tibor Kalman (concept / image) |
 Barbara Krueger (type & image) | 
 Saul Bass (for logos, not film titles) | 
 Shepard Fairey (semiotics) | 
-Art Chantry (music / punk aesthetic) | Lenay &
+Art Chantry (music / punk aesthetic) | Lenay & Cheryl
 Peter Saville (music / punk aesthetic) | 
 Chip Kidd (book jackets) | 
 
