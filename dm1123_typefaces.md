@@ -4,21 +4,22 @@
 
 # Assignment: Typefaces
 
-* **Post to wordpress or tumblr, your favorite typeface used within an image.**
 
-* **List the typeface’s family (Consult Lessons in Typography):**
-  * serif
-  * sans serif, 
-  * slab serif, 
-  * script, 
-  * decorative or display
-
-
-* **Try to find out the name of your typeface, as well as the type designer if you can.**
-  * Use either of the following to do so: 
-    * Fount - http://fount.artequalswork.com
-    * What the Font - http://new.myfonts.com/WhatTheFont/
-
-
-* **Discuss why the typeface is one of your favorites.**
+* Post to wordpress or tumblr, **an image which contains the following type category.** Post a separate image for each type category for a total of 7 images.
+  * Serif
+  * Sans Serif
+  * Script
+  * Monospace
+  * Novelty or Display
+  * Blackletter
+  * Dingbat
+ 
+ 
+* Post to wordpress or tumblr, your **favorite typeface used within an image.**
+  * List the **typeface’s category** (Consult Lessons in Typography):
+  * Try to find out the **name of your typeface**, as well as the **type designer** if you can.
+    * Use either of the following to do so: 
+      * Fount - http://fount.artequalswork.com
+      * What the Font - http://new.myfonts.com/WhatTheFont/
+  * **Discuss why** the typeface is one of your favorites.
 
