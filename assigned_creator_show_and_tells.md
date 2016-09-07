@@ -19,7 +19,7 @@ Barbara Krueger (type & image) |
 Saul Bass (for logos, not film titles) | 
 Shepard Fairey (semiotics) | 
 Art Chantry (music / punk aesthetic) | Lenay & Cheryl
-Peter Saville (music / punk aesthetic) | 
+Peter Saville (music / punk aesthetic) | Adil &
 Chip Kidd (book jackets) | Julian & 
 
 #### CREATOR SHOW & TELLS Instructions
