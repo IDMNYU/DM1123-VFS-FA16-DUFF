@@ -92,7 +92,7 @@
 
 <td valign="top">
   <ul>
-  <li><a href="dm1123_image.html">Assignment: Image</a>
+  <li><a href="dm1123_image.md">Assignment: Image</a>
   </li>
   <li><strong> Continue <a href="http://nyu.edu/lynda" target="_blank">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
