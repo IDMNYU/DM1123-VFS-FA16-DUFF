@@ -9,17 +9,17 @@ Subject | Team
 --- | --- 
 Nicholas Felton (data visualization) |
 David Carson (type & image) | Asaf &
-Stefan Sagmeister (type & image) | 
-Paula Scher (type & image) | 
-Andy Warhol (image) | 
-Josef Muller-Brockman (composition / the grid) | 
+Stefan Sagmeister (type & image) | Phoenix & 
+Paula Scher (type & image) | Carol & 
+Andy Warhol (image) | Nick & Jason
+Josef Muller-Brockman (composition / the grid) | Dylan & 
 Aleksander Rodchenko (composition & photography) | 
-Tibor Kalman (concept / image) | 
+Tibor Kalman (concept / image) | Catherine & Corinna
 Barbara Krueger (type & image) | Lauren & Christy
-Saul Bass (for logos, not film titles) | 
+Saul Bass (for logos, not film titles) | Alisa & Cha Mi
 Shepard Fairey (semiotics) | Stephanie
 Art Chantry (music / punk aesthetic) | Lenay & Cheryl
-Peter Saville (music / punk aesthetic) | Adil &
+Peter Saville (music / punk aesthetic) | Adil & Jorge
 Chip Kidd (book jackets) | Julian & 
 
 #### CREATOR SHOW & TELLS Instructions
