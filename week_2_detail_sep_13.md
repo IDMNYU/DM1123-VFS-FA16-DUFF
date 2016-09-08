@@ -1,7 +1,7 @@
 # DM-UY 1123 Visual Foundation Studio
 ##### Fall 2016 • De Angela L. Duff • Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 
 ---
-## [Schedule Weekly Detail](dm1123_schedule_overview.md)
+## [Schedule:](dm1123_schedule_overview.md) Week 2
 
 <table>
 <tr>
