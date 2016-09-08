@@ -21,8 +21,8 @@
     <ul>
 <li><a href="assigned_creator_show_and_tells.html">Creator Show &amp; Tells</a> due: 
   <ul>
-  <li>David Carson ( &amp; )</li>
-  <li>Nicolas Felton ( &amp; )</li>
+  <li>David Carson (Asaf &amp; Phoenix)</li>
+  <li>Nicolas Felton (Jae &amp; Alisa)</li>
   </ul>
   
     <li>Review reading (Type vs. Typeface vs. Font)</li>
@@ -36,9 +36,9 @@
   <ul>  
   <li><a href="assigned_creator_show_and_tells.html">Creator Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Andy Warhol:  &amp;  </li>
-      <li>Paula Scher:  &amp; </li>
-      <li>Stefan Sagmeister:  &amp; </li>
+      <li>Andy Warhol: Nick &amp; Jason</li>
+      <li>Paula Scher: Carol &amp; </li>
+      <li>Stefan Sagmeister: Phoenix &amp; </li>
     </ul>
     <li>Review reading</li>
 
