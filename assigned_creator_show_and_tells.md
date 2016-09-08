@@ -15,9 +15,9 @@ Andy Warhol (image) |
 Josef Muller-Brockman (composition / the grid) | 
 Aleksander Rodchenko (composition & photography) | 
 Tibor Kalman (concept / image) | 
-Barbara Krueger (type & image) | 
+Barbara Krueger (type & image) | Lauren & Christy
 Saul Bass (for logos, not film titles) | 
-Shepard Fairey (semiotics) | 
+Shepard Fairey (semiotics) | Stephanie
 Art Chantry (music / punk aesthetic) | Lenay & Cheryl
 Peter Saville (music / punk aesthetic) | Adil &
 Chip Kidd (book jackets) | Julian & 
