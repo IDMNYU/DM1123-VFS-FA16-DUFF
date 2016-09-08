@@ -7,8 +7,8 @@
 
 Subject | Team 
 --- | --- 
-Nicholas Felton (data visualization) |
-David Carson (type & image) | Asaf &
+Nicholas Felton (data visualization) | Jae & Alisa
+David Carson (type & image) | Asaf & Phoenix
 Stefan Sagmeister (type & image) | Phoenix & 
 Paula Scher (type & image) | Carol & 
 Andy Warhol (image) | Nick & Jason
