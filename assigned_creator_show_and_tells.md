@@ -13,7 +13,7 @@ Stefan Sagmeister (type & image) | Phoenix &
 Paula Scher (type & image) | Carol & 
 Andy Warhol (image) | Nick & Jason
 Josef Muller-Brockman (composition / the grid) | Dylan & 
-Aleksander Rodchenko (composition & photography) | 
+Aleksander Rodchenko (composition & photography) | Cheryl &
 Tibor Kalman (concept / image) | Catherine & Corinna
 Barbara Krueger (type & image) | Lauren & Christy
 Saul Bass (for logos, not film titles) | Alisa & Cha Mi
