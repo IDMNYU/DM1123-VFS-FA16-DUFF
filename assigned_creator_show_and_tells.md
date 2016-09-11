@@ -17,10 +17,10 @@ Aleksander Rodchenko (composition & photography) | Cheryl &
 Tibor Kalman (concept / image) | Catherine & Corinna
 Barbara Krueger (type & image) | Lauren & Christy
 Saul Bass (for logos, not film titles) | Alisa & Cha Mi
-Shepard Fairey (semiotics) | Stephanie
+Shepard Fairey (semiotics) | Stephanie &amp; Grace
 Art Chantry (music / punk aesthetic) | Lenay & Cheryl
 Peter Saville (music / punk aesthetic) | Adil & Jorge
-Chip Kidd (book jackets) | Julian & 
+Chip Kidd (book jackets) | Julian & Grace
 
 #### CREATOR SHOW & TELLS Instructions
 * Pair up w/ 1 classmate
