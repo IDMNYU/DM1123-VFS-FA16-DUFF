@@ -38,7 +38,7 @@
   <li><a href="assigned_creator_show_and_tells.html">Creator Show &amp; Tells</a> due:</li>
     <ul>
       <li>Andy Warhol: Nick &amp; Jason</li>
-      <li>Paula Scher: Carol &amp; </li>
+      <li>Paula Scher: Carol &amp; Asaf </li>
       <li>Stefan Sagmeister: Phoenix &amp; Cha Mi</li>
     </ul>
     <li>Review reading</li>
