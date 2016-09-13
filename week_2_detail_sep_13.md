@@ -38,7 +38,7 @@
     <ul>
       <li>Andy Warhol: Nick &amp; Jason</li>
       <li>Paula Scher: Carol &amp; </li>
-      <li>Stefan Sagmeister: Phoenix &amp; </li>
+      <li>Stefan Sagmeister: Phoenix &amp; Cha Mi</li>
     </ul>
     <li>Review reading</li>
 
