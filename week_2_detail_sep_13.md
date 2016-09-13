@@ -19,7 +19,7 @@
   
   <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
     <ul>
-    <li>Finish Reviewing Color</li>
+    <li>Finish Reviewing Color (See previous Thursday)</li>
 <li><a href="assigned_creator_show_and_tells.html">Creator Show &amp; Tells</a> due: 
   <ul>
   <li>David Carson (Asaf &amp; Phoenix)</li>
