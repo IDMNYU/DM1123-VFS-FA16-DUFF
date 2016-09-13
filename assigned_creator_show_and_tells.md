@@ -10,7 +10,7 @@ Subject | Team
 Nicholas Felton (data visualization) | Jae & Alisa
 David Carson (type & image) | Asaf & Phoenix
 Stefan Sagmeister (type & image) | Phoenix & Cha Mi
-Paula Scher (type & image) | Carol & 
+Paula Scher (type & image) | Carol & Asaf
 Andy Warhol (image) | Nick & Jason
 Josef Muller-Brockman (composition / the grid) | Dylan & 
 Aleksander Rodchenko (composition & photography) | Cheryl & Christy
