@@ -77,7 +77,7 @@
   <li>Rhythm and Balance</li>
   <li>Scale</li>
   <li>Texture</li>
-  <li>Figure/Ground</li>
+  <li>Figure/Ground (1st Edition) or Gestalt Principles (2nd Edition)</li>
   <li>Framing</li>
   </ul>
   </td>
