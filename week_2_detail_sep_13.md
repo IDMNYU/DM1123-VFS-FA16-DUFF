@@ -35,14 +35,15 @@
   
   <td valign="top" width="48%"><strong>COMPONENTS: Image</strong>
   <ul>  
-  <li>Finish Reviewing Color (See previous Thursday)</li>
-  <li>Review the anatomy of a letter</li>
+  
   <li><a href="assigned_creator_show_and_tells.html">Creator Show &amp; Tells</a> due:</li>
     <ul>
       <li>Andy Warhol: Nick &amp; Jason</li>
       <li>Paula Scher: Carol &amp; Asaf </li>
       <li>Stefan Sagmeister: Phoenix &amp; Cha Mi</li>
     </ul>
+    <li>Finish Reviewing Color (See previous Thursday)</li>
+  <li>Review the anatomy of a letter</li>
     <li>Review reading</li>
 
   </ul>
