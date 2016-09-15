@@ -23,7 +23,7 @@
   <strong>COMPONENTS: Color, Type &amp; Image Review</strong>
     <ul>
     <li>Color, Type, Image, and Composition Non-Quiz</li>
-    <li>Review Color, Type, Image, and Composition Quiz in Teams</li>
+    <li>Review Color, Type, Image, and Composition Non-Quiz in Teams</li>
     <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: How Do You Create Your Own Typefaces?</li>
