@@ -79,8 +79,7 @@
 
 <td valign="top">
   <ul>
-  <li>
-  </li>
+  
   <li><strong> Continue <a href="http://nyu.edu/lynda" target="_blank">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -92,7 +91,7 @@
 <td valign="top">
   <ul>
 
-  <li>One member of your team should post your logo show & tell brand and partner to the vfs slack channel if you have not done so already</li>
+  <li>One member of your team should post your logo show &amp; tell brand (first come) and partner to the vfs slack channel if you have not done so already</li>
   <li><strong>Do <a href="dm1123_concept.md">Assignment: Composition and Concept</a></strong> as homework instead.</li>
 
   <li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
