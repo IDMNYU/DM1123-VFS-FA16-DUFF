@@ -1,7 +1,7 @@
 # DM-UY 1123 Visual Foundation Studio
 ##### Fall 2016 • De Angela L. Duff • Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 
 ---
-## [Schedule:](dm1123_schedule_overview.md) Week 2
+## [Schedule:](dm1123_schedule_overview.md) Week 3
 
 <table>
 <tr>
@@ -10,9 +10,9 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top">3</td>
+  <td valign="top" width="48%"><strong>Sep 20</strong></td>
+  <td valign="top" width="48%"><strong>Sep 22</strong></td>
 </tr>
 <tr>
   <td valign="top">class</td>
