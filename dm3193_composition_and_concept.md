@@ -21,8 +21,8 @@
   * Briefly discuss why, in terms of its message and visual form
 
 
-*  **Your Favorite TV Design**
-  * Post a supporting still image of your favorite tv design (cable, tv, internet,or film)
+*  **Your Favorite Broadcast Design**
+  * Post a supporting still image of your favorite broadcast design (cable, broadcast tv, internet,or film)
   * Briefly discuss why, in terms of its message and visual form
 
 
