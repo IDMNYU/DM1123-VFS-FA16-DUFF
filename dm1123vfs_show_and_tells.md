@@ -7,7 +7,7 @@
 
 Brand | Team 
 --- | --- 
- |
+Universal Studio | Lenay &amp; Woo
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
