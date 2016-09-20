@@ -27,8 +27,8 @@
     </tr
     <tr>
         <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br><strong>Components: Color, Type &amp; Image Review</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br><strong>Components: Composition and Concept</strong><br><br>Show and Tells: Josef Müller-Brockmann, Alexander Rodchenko, Barbara Krueger, and Tibor Kalman</td>
+        <td valign="top"><a href="week_3_detail_sep_20.md">Sept 20<br><strong>Components: Color, Type &amp; Image Review</strong></a></td>
+        <td valign="top"><a href="week_3_detail_sep_20.md">Sep 22<br><strong>Components: Composition and Concept</strong><br><br>Show and Tells: Josef Müller-Brockmann, Alexander Rodchenko, Barbara Krueger, and Tibor Kalman</a></td>
     </tr>
     <tr>
         <td>4</td>
