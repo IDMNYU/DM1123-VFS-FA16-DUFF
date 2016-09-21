@@ -127,6 +127,11 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * 23 Really Bad Font - Choiceshttp://bonfx.com/23-really-bad-font-choices
 
 
+* **Good Fonts**
+  * [30 Fonts To Last A Life Time](http://justcreative.com/2008/03/02/30-best-font-downloads-for-designers/) 
+  * [The Top 100 Best Fonts Of All Time](http://justcreative.com/2009/03/04/the-top-100-best-fonts-of-all-time/)
+
+
 * **How Do You Create Your Own Typefaces?** 
     * <a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a>
     * <a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a>
@@ -156,6 +161,9 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
    * Logotypes
    * Combination
  * [(if you want to get technical,) there is actually 5](http://www.nodinx.com/5-basic-types-of-logos/)
+ * [The Logo Design Process of Top Logo Designers](http://justcreative.com/2008/02/01/logo-design-process-of-top-graphic-designers/)
+ * [How To Design A Logo](http://justcreative.com/2008/01/08/how-to-design-a-logo/)
+ * [The Ultimate List of The Best Logo Design Resources](http://justcreative.com/2008/12/02/logo-design-resources/)
  * Versions (different) vs. Variations (similar) (vfs_logo_packet.pdf will be pinned on slack)
  * [Flexible Logotypes](http://www.hexanine.com/zeroside/the-future-is-fluid-inside-dynamic-logos/) (152-153 Type On Screen)
  * [Generative Logotypes](http://www.creativeapplications.net/wp-content/uploads/2011/03/LogoMain2.jpg) (154-155 Type On Screen)
