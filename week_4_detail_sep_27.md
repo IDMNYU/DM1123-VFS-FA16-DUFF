@@ -17,7 +17,7 @@
 <tr>
 
 <td valign="top">class</td>
-<td valign="top" width="48%"><strong><a href="dm1123vfs_projects_logo.md">LOGO Show & Tells</a></strong> DUE
+<td valign="top" width="48%"><strong><a href="dm1123vfs_show_and_tells.md">LOGO Show & Tells</a></strong> DUE
 
   </td>
   <td valign="top" width="48%">
