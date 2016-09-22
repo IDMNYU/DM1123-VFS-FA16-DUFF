@@ -39,7 +39,7 @@
   <li>Assign Remaining <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-     <li>Josef Muller-Brockman: Dylan &amp; ? </li>
+     <li>Josef Muller-Brockman: Dylan</li>
     <li>Aleksander Rodchenko:  Cheryl &amp; Christy </li>
     <li>Tibor Kalman:  Catherine &amp; Corinna </li>
     <li>Barbara Krueger:  Lauren &amp; Christy </li>
