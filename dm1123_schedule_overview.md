@@ -84,13 +84,13 @@
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 1<br></td>
+        <td>Nov 29<br><strong>PHYSICAL APP FINAL</strong><br>Adobe Indesign Demo</td>
+        <td>Dec 1<br>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Entire Class)</td>
-        <td>Dec 8<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Other Half of Class)</td>
+        <td>Dec 6<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Other Half of Class)</td>
+        <td>Dec 8<br>(OPTIONAL) <strong>BOOK 3rd Draft</strong> (Priority)<br><strong>PDF 2nd DRAFT</strong> (Entire Class)</td>
     </tr>
      <tr>  
         <td>(OPTIONAL) Order Book</td>  
@@ -99,7 +99,7 @@
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><strong>PDF 2nd DRAFT</strong> (Entire Class)</td>
+        <td>Dec 15<br><strong>PDF 3rd DRAFT</strong> (Entire Class)</td>
     </tr>
       <tr>  
         <td></td>  
