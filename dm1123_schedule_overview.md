@@ -90,12 +90,12 @@
     <tr>
         <td>14</td>    
         <td>Dec 6<br>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong></strong> (Entire Class)</td>
-        <td>Dec 8<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong></strong> (Other Class)</td>
+        <td>Dec 8<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Other Class)</td>
     </tr>
-    <tr>
-    <td></td>
-    <td>Order Book</td>
-    <td></td>
+     <tr>
+        <td>15</td>     
+        <td>(OPTIONAL) Order Book</td>  
+        <td></td>
     </tr>
     <tr>
         <td>15</td>     
