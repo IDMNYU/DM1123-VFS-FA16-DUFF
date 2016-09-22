@@ -45,10 +45,7 @@
     <li>Barbara Krueger:  Lauren &amp; Christy </li>
     </ul>
     <li>Review Composition and Concept Homework</li>
-    <li>Review Reading</li>
-    
-    
-    
+    <li>Review Reading</li>   
   </ul>
 
   </td>
