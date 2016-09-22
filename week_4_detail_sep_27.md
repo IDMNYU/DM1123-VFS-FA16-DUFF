@@ -31,6 +31,7 @@
   <li>Discuss <a href="dm1123vfs_projects_logo.md">Logo Project</a></li>
   <li>Logo Lecture &amp; <a href="dm1123_vfs_recommended_resources.md">Additional Resources</a></li>
   <li>Illustrator Demo</li>
+  <li>(if time) Review more Composition and Concept Homework</li>
   </ul>
   </td>
   
