@@ -44,8 +44,9 @@
     <li>Tibor Kalman:  Catherine &amp; Corinna </li>
     <li>Barbara Krueger:  Lauren &amp; Christy </li>
     </ul>
-    <li>Review Reading</li>
     <li>Review Composition and Concept Homework</li>
+    <li>Review Reading</li>
+    
     
     
   </ul>
