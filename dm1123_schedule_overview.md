@@ -74,12 +74,12 @@
     </tr>
     <tr>
         <td>11</td>   
-        <td>Nov 15<br>NO CLASS: Instructor out of country for conference</td>
-        <td>Nov 17<br>NO CLASS: Instructor out of country for conference</td>
+        <td>Nov 15<br><i>NO CLASS: Instructor out of country for conference</i></td>
+        <td>Nov 17<br><i>NO CLASS: Instructor out of country for conference</ii></td>
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br>strong>INTERFACE FINAL</strong> (Entire Class)</td>
+        <td>Nov 22<br><strong>INTERFACE FINAL</strong> (Entire Class)</td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
