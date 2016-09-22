@@ -24,6 +24,7 @@
   <ul>
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
+    <li>Josef Muller-Brockman: Dylan</li>
      <li>Saul Bass: Alisa &amp; Cha Mi</li>
     <li>Shepard Fairey: Stephanie &amp; Grace</li>
     </ul>
