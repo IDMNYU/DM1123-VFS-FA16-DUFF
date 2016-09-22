@@ -17,6 +17,9 @@
 <tr>
 
 <td valign="top">class</td>
+<td valign="top" width="48%"><strong><a href="dm1123vfs_projects_logo.md">LOGO Show & Tells</a></strong> DUE
+
+  </td>
   <td valign="top" width="48%">
   <ul>
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
@@ -30,15 +33,18 @@
   </ul>
   </td>
   
-  <td valign="top" width="48%"><strong><a href="dm1123vfs_projects_logo.md">LOGO Show & Tells</a></strong>
-
-  </td>
+  
 </tr>
 
 <!-- read -->
 <tr>
   <td valign="top">read</td>
+  <td valign="top">
+  <ul>
   
+  <li>Catch up on reading (particularly Notes on Color Theory by Rose Gonnella) if behind or Review reading</li>
+  </ul>
+  </td>
   <td valign="top">
   <ul>
   <li><a href="http://justcreative.com/2008/05/22/why-logo-design-does-not-cost-5-dollars/">Why professional logo design does not cost $5.00</a></li>
@@ -47,12 +53,7 @@
   <li>Catch up on reading (particularly Notes on Color Theory by Rose Gonnella) if behind or Review reading</li>
   </ul></td>
  
-  <td valign="top">
-  <ul>
   
-  <li>Catch up on reading (particularly Notes on Color Theory by Rose Gonnella) if behind or Review reading</li>
-  </ul>
-  </td>
 </tr>
 
 <!-- do -->
@@ -60,7 +61,13 @@
   <td valign="top">do</td>
   
   
+<td valign="top">
+  <ul>
 
+  <li>Assignment: <a href="dm1123vfs_projects_logo.md">Logo Show and Tells</a></li>
+
+  <li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+  </ul></td>
 <td valign="top">
   <ul>
   
@@ -72,13 +79,7 @@
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></ul></td>
 
-<td valign="top">
-  <ul>
 
-  <li>Assignment: <a href="dm1123vfs_projects_logo.md">Logo Show and Tells</a></li>
-
-  <li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
-  </ul></td>
 </tr>
 </table>
 
