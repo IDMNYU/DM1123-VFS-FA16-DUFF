@@ -17,7 +17,10 @@
 <tr>
 
 <td valign="top">class</td>
-<td valign="top" width="48%"><strong><a href="dm1123vfs_show_and_tells.md">LOGO Show & Tells</a></strong> DUE
+<td valign="top" width="48%">
+<ul>
+<li><strong><a href="dm1123vfs_show_and_tells.md">LOGO Show & Tells</a></strong> DUE</li>
+</ul>
 
   </td>
   <td valign="top" width="48%">
@@ -31,7 +34,7 @@
   <li>Discuss <a href="dm1123vfs_projects_logo.md">Logo Project</a></li>
   <li>Logo Lecture &amp; <a href="dm1123_vfs_recommended_resources.md">Additional Resources</a></li>
   <li>Illustrator Demo</li>
-  <li>(if time) Review more Composition and Concept Homework</li>
+  <li>(if time) Review more <a href="dm3193_composition_and_concept.md">Composition and Concept</a> Homework</li>
   </ul>
   </td>
   
