@@ -10,6 +10,7 @@ Brand | Team
 Lego | Cha Mi & Julian
 MasterCard | Stephanie & Nick
 Universal Studio | Lenay &amp; Jae
+Volkswagon | Jorge &amp; Asaf
 Walt Disney | Cat &amp; Corrina
 
 ### Logo SHOW & TELL Directions
