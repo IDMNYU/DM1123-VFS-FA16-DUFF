@@ -49,13 +49,13 @@
     <tr>
         <td>7</td>     
         <td><a href="week_8_detail_oct_20.md"></a>Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</td>
-         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>PHYSICAL APP 1st Draft</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
     </tr>
     <tr>
         <td>8</td>     
        
-        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft</strong> (Half of Class)</td>
-        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
+        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Half of Class)</td>
+        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Other Half of Class)</a></td>
         
     </tr>
     <tr>
@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
-        <td>Nov 10<br><strong>INTERFACE Visual Design 1st Draft</strong> (Half of Class)</td>
+        <td>Nov 8<br><strong>INTERFACE Visual Design 1st Draft (3 Comps or Versions)</strong> (Half of Class)</td>
+        <td>Nov 10<br><strong>INTERFACE Visual Design 1st Draft (3 Comps or Versions)</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>11</td>   
