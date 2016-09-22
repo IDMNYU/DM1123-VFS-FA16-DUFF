@@ -7,11 +7,14 @@
 
 Brand | Team 
 --- | --- 
+Batman | Lauren & Christy
 Lego | Cha Mi & Julian
 MasterCard | Stephanie & Nick
+MTV | Alisa & Phoenix
 Trump | Cheryl &amp; Grace
 Universal Studio | Lenay &amp; Jae
 Volkswagon | Jorge &amp; Asaf
+Walmart | Dylan &amp; Jason
 Walt Disney | Cat &amp; Corrina
 
 ### Logo SHOW & TELL Directions
