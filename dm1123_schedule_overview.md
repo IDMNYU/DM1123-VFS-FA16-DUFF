@@ -62,7 +62,7 @@
         <td>9</td>      
         
         <td>Nov 1<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
-        <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
+        <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
