@@ -43,22 +43,25 @@
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong>Demos continued / Screenings</strong></td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong>LOGO 2nd Draft</strong> (Half of Class)</td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong>LOGO 2nd Draft</strong> (Half of Class)</td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)</td>
         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</td>
+         <td><a href="week_8_detail_oct_20.md"></a>Oct 22<br><strong>PHYSICAL APP 1st Draft</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong>PHYSICAL APP 1st Draft</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+       
         <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft</strong> (Half of Class)</td>
+        <td valign="top">Nov 1<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
+        
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
+        
+        <td>Nov 3<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
         <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
     </tr>
      <tr>
