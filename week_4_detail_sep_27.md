@@ -41,7 +41,9 @@
   
   <td valign="top">
   <ul>
-  <li><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
+  <li><a href="http://justcreative.com/2008/05/22/why-logo-design-does-not-cost-5-dollars/">Why professional logo design does not cost $5.00</a></li>
+ <li><a href="http://justcreative.com/2008/02/01/logo-design-process-of-top-graphic-designers/" target="_blank">The Logo Design Process of Top Logo Designers</a></li>
+<li><a href="http://justcreative.com/2008/01/08/how-to-design-a-logo/" target="_blank">How To Design A Logo</a></li>
   <li>Catch up on reading (particularly Notes on Color Theory by Rose Gonnella) if behind or Review reading</li>
   </ul></td>
  
