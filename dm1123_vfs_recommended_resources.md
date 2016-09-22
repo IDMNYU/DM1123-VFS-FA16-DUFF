@@ -161,6 +161,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
    * Logotypes
    * Combination
  * [(if you want to get technical,) there is actually 5](http://www.nodinx.com/5-basic-types-of-logos/)
+ * [Why professional logo design does not cost $5.00](http://justcreative.com/2008/05/22/why-logo-design-does-not-cost-5-dollars/)
  * [The Logo Design Process of Top Logo Designers](http://justcreative.com/2008/02/01/logo-design-process-of-top-graphic-designers/)
  * [How To Design A Logo](http://justcreative.com/2008/01/08/how-to-design-a-logo/)
  * [The Ultimate List of The Best Logo Design Resources](http://justcreative.com/2008/12/02/logo-design-resources/)
