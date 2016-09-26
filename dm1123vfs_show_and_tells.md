@@ -7,11 +7,12 @@
 
 Brand | Team 
 --- | --- 
-? | Adil &amp; Carol
+
 Batman | Lauren & Christy
 Lego | Cha Mi & Julian
 MasterCard | Stephanie & Nick
 MTV | Alisa & Phoenix
+Pepsi | Adil &amp; Carol
 Trump | Cheryl &amp; Grace
 Universal Studio | Lenay &amp; Jae
 Volkswagon | Jorge &amp; Asaf
