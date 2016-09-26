@@ -7,7 +7,6 @@
 
 Brand | Team 
 --- | --- 
-
 Batman | Lauren & Christy
 Lego | Cha Mi & Julian
 MasterCard | Stephanie & Nick
