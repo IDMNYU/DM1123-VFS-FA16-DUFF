@@ -38,8 +38,8 @@
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br><strong>LOGO 1st Draft</strong> (Half of Class)</td>
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br><strong>LOGO 1st Draft</strong> (Other Half of Class)</td>
+        <td><a href="week_5_detail_oct_4.md">Oct 04<br><strong>LOGO 1st Draft</strong> (Half of Class)</a></td>
+        <td><a href="week_5_detail_oct_4.md">Oct 06<br><strong>LOGO 1st Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>6</td>    
