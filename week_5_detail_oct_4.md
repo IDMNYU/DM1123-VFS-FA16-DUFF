@@ -10,7 +10,7 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top”>5</td>
+  <td valign="top">5</td>
   <td><strong>Oct 4</strong></td>
   <td><strong>Oct 6</strong></td>
 </tr>
@@ -20,23 +20,10 @@
   <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (Other Half of Class)</td>
 </tr>
 
-<!-- homework -->
-<tr>
-  <td valign="top">read</td>
-  
-  <td valign="top">
-  </td>
- 
-  <td valign="top">
-  </td>
-</tr>
-
 <!-- do -->
 <tr>
   <td valign="top">do</td>
   
-  
-
 <td valign="top">
   <ul>
   <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
