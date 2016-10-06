@@ -18,11 +18,11 @@
   <td valign="top">class</td>
   
 
-  <td valign="top" width="48%">LOGO 2nd Draft (Entire Class)</td>
+  <td valign="top" width="48%"><a href="dm1123vfs_projects_logo.md">LOGO 2nd Draft</a> (Entire Class)</td>
   
   <td valign="top" width="48%">
 <ul>
-<li>LOGO 2nd Draft (Remainder of Class)</li>
+<li><a href="dm1123vfs_projects_logo.md">LOGO 2nd Draft</a> (Remainder of Class)</li>
 <li>Schedule Midterm One one Ones for Oct 19-21</li>
 </ul>
   </td>
