@@ -43,8 +43,8 @@
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong>LOGO 2nd Draft</strong> (Half of Class)</td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</td>
+        <td><a href="week_6_detail_oct_11.md">Oct 11<br><strong>LOGO 2nd Draft</strong> (Half of Class)</a></td>
+        <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td>
     </tr>
     <tr>
         <td>7</td>     
