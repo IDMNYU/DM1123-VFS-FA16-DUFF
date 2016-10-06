@@ -17,7 +17,7 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (Entire Class)</td>
-  <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (Those we didn't get to on Tuesday.)</td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (The rest of the class.)</td>
 </tr>
 
 <!-- do -->
