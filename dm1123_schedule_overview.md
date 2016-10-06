@@ -38,13 +38,13 @@
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_oct_4.md">Oct 04<br><strong>LOGO 1st Draft</strong> (Half of Class)</a></td>
-        <td><a href="week_5_detail_oct_4.md">Oct 06<br><strong>LOGO 1st Draft</strong> (Other Half of Class)</a></td>
+        <td><a href="week_5_detail_oct_4.md">Oct 04<br><strong>LOGO 1st Draft</strong> (Entire Class)</a></td>
+        <td><a href="week_5_detail_oct_4.md">Oct 06<br><strong>LOGO 1st Draft</strong> (Rest of Class)</a></td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_11.md">Oct 11<br><strong>LOGO 2nd Draft</strong> (Half of Class)</a></td>
-        <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td>
+        <td><a href="week_6_detail_oct_11.md">Oct 11<br><strong>LOGO 2nd Draft</strong> (Entire Class)</a></td>
+        <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Rest of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td>
     </tr>
     <tr>
         <td>7</td>     
@@ -54,8 +54,8 @@
     <tr>
         <td>8</td>     
        
-        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Half of Class)</td>
-        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Other Half of Class)</a></td>
+        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Entire Class)</td>
+        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
         
     </tr>
     <tr>
@@ -89,7 +89,7 @@
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Other Half of Class)</td>
+        <td>Dec 6<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Rest of Class)</td>
         <td>Dec 8<br>(OPTIONAL) <strong>BOOK 3rd Draft</strong> (Priority)<br><strong>PDF 2nd DRAFT</strong> (Entire Class)</td>
     </tr>
      <tr>  
