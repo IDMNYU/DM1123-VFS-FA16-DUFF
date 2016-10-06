@@ -28,16 +28,7 @@
   </td>
 </tr>
 
-<!-- homework -->
-<tr>
-  <td valign="top">read</td>
-  
-  <td valign="top">
-  </td>
- 
-  <td valign="top">
-  </td>
-</tr>
+
 
 <!-- do -->
 <tr>
