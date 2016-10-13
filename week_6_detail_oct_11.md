@@ -22,6 +22,7 @@
   
   <td valign="top" width="48%">
 <ul>
+<li>Consider registering for DM-UY 2173 Motion Graphics Studio in Spring 2017. I consider it part two of this course.</li>
 <li><a href="dm1123vfs_projects_logo.md">LOGO 2nd Draft</a> (Remainder of Class)</li>
 <li>Schedule Midterm One one Ones for Oct 19-21</li>
 </ul>
