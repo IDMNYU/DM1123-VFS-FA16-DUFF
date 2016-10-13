@@ -44,7 +44,7 @@
 
 <td valign="top">
   <ul>
-  
+  <li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
   <li><strong> Continue <a href="http://nyu.edu/lynda" target="_blank">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
