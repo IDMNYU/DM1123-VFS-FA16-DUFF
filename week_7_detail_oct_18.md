@@ -22,7 +22,9 @@
 <ul>
 <li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
 <li>Logo Rubric</li>
-
+<ul>
+<li>Bring your Logo Rubric filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
+</ul>
 </ul>
   </td>
   
