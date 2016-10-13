@@ -49,7 +49,7 @@
         <td></td>     
         <td>Oct 19-11<br>Midterm one on one appointments 
         <ul>
-        <li>Schedule at https://calendly.com/deangela</li>
+        <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
 <li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
 </ul></td>
 <td></td>
