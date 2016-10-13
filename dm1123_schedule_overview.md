@@ -44,14 +44,13 @@
     <tr>
         <td>6</td>    
         <td><a href="week_6_detail_oct_11.md">Oct 11<br><strong>LOGO 2nd Draft</strong> (Entire Class)</a></td>
-        <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Rest of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td>
+        <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Rest of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td></tr>
+<tr>  
+        <td></td>     
+        <td>Oct 19-11</td>
+         <td></td>
     </tr>
-    <tr>
-     <td></td>
-      <td></td>
-    <td></td>
-    </tr>
-    <tr>
+<tr>  
         <td>7</td>     
         <td><a href="week_7_detail_oct_18.md">Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric</td>
          <td><a href="week_7_detail_oct_18.md">Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</a></td>
