@@ -20,7 +20,7 @@
 
   <td valign="top" width="48%">
 <ul>
-<li>MIDTERM: LOGO FINAL (The Entire Class)</li>
+<li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
 <li>Logo Rubric</li>
 <li>Logo Self Reflection</li>
 </ul>
