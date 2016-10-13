@@ -56,7 +56,7 @@
 <td valign="top">
   <ul>
 
-  <li><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 1st Draft–Versions</a> (The Entire Class)</li>
+  <li><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 1st Draft–Versions</a></li>
 
   <li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
