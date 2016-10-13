@@ -48,8 +48,8 @@
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</td>
-         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+        <td><a href="week_7_detail_oct_18.md">Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</a></td>
+         <td><a href="week_7_detail_oct_18.md">Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</a></td>
     </tr>
     <tr>
         <td>8</td>     
