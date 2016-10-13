@@ -23,8 +23,11 @@
   <td valign="top" width="48%">
 <ul>
 <li>Consider registering for DM-UY 2173 Motion Graphics Studio in Spring 2017. I consider it part two of this course.</li>
+<li>Schedule your midterm one on one appointment with me here on *Oct 19-21* only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+<ul>
+<li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
+</ul>
 <li><a href="dm1123vfs_projects_logo.md">LOGO 2nd Draft</a> (Remainder of Class)</li>
-<li>Schedule Midterm One one Ones for Oct 19-21</li>
 </ul>
   </td>
 </tr>
