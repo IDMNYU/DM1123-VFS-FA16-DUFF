@@ -47,7 +47,7 @@
         <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Rest of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td></tr>
 <tr>  
         <td></td>     
-        <td>Oct 19-11<br>Midterm one on one appointments 
+        <td>Oct 19-21<br>Midterm one on one appointments 
         <ul>
         <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
 <li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
