@@ -45,16 +45,7 @@
         <td>6</td>    
         <td><a href="week_6_detail_oct_11.md">Oct 11<br><strong>LOGO 2nd Draft</strong> (Entire Class)</a></td>
         <td><a href="week_6_detail_oct_11.md">Oct 13<br><strong>LOGO 2nd Draft</strong> (Rest of Class)<br><strong>Schedule Midterm One one Ones</strong> for Oct 19-21</a></td></tr>
-<tr>  
-        <td></td>     
-        <td>Oct 19-21<br>Midterm one on one appointments 
-        <ul>
-        <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
-<li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
-</ul></td>
-<td></td>
-    </tr>
-<tr>  
+
         <td>7</td>     
         <td><a href="week_7_detail_oct_18.md">Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric</td>
          <td><a href="week_7_detail_oct_18.md">Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</a></td>
@@ -66,6 +57,17 @@
         <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
         
     </tr>
+    
+    <tr>  
+        <td></td>     
+        <td>Oct 19-21<br>Midterm one on one appointments 
+        <ul>
+        <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
+<li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
+</ul></td>
+<td></td>
+    </tr>
+<tr>  
     <tr>
         <td>9</td>      
         
