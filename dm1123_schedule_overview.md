@@ -50,15 +50,7 @@
         <td><a href="week_7_detail_oct_18.md">Oct 18<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric</td>
          <td><a href="week_7_detail_oct_18.md">Oct 20<br><strong>PHYSICAL APP 1st Draft–Versions</strong> (The Entire Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</a></td>
     </tr>
-    <tr>
-        <td>8</td>     
-       
-        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Entire Class)</td>
-        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
-        
-    </tr>
-    
-    <tr>  
+        <tr>  
         <td></td>     
         <td>Oct 19-21<br>Midterm one on one appointments 
         <ul>
@@ -68,6 +60,15 @@
 <td></td>
     </tr>
 <tr>  
+    <tr>
+        <td>8</td>     
+       
+        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Entire Class)</td>
+        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
+        
+    </tr>
+    
+
     <tr>
         <td>9</td>      
         
