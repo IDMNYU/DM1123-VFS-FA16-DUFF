@@ -11,14 +11,14 @@
 </tr>
 <tr>
   <td valign="top”>7</td>
-  <td valign="top" width="48%"><strong>Oct 18</strong></td>
-  <td valign="top" width="48%"><strong>Oct 20</strong></td>
+  <td valign="top"><strong>Oct 18</strong></td>
+  <td valign="top"><strong>Oct 20</strong></td>
 </tr>
 <tr>
   <td valign="top">class</td>
   
 
-  <td valign="top" width="48%">
+  <td valign="top">
 <ul>
 <li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
 <li>Logo Rubric</li>
