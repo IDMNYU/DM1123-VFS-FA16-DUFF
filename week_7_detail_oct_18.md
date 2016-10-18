@@ -20,8 +20,13 @@
 
   <td valign="top">
 <ul>
-<li></li>
 <li>Motion Graphics Studio Spring 2017</li>
+<li>If you have not done so already, please schedule your midterm one on one appointment with me here on <strong>Oct 19-21</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+<ul>
+<li>Bring your Logo Self Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy is pinned on slack.</li>
+<li>You can also cancel and reschedule via calendly</li>
+</ul>
+
 <li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
 <li>Logo Rubric</li>
 <ul>
