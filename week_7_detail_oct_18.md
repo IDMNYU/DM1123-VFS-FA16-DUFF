@@ -20,6 +20,8 @@
 
   <td valign="top">
 <ul>
+<li></li>
+<li>Motion Graphics Studio Spring 2017</li>
 <li><a href="dm1123vfs_projects_logo.md">MIDTERM: LOGO FINAL</a> (The Entire Class)</li>
 <li>Logo Rubric</li>
 <ul>
