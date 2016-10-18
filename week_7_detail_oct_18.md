@@ -31,7 +31,12 @@
   <td valign="top" width="48%">
 <ul>
 <li><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 1st Draft–Versions</a> (The Entire Class)</li>
-<li>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</li>
+<li>Show and Tells: 
+<ul>
+<li>Peter Saville: Adil & Jorge</li> 
+<li>Chip Kidd: Julian & Grace</li>
+<li>Art Chantry: Lenay & Cheryl</li>
+</ul>
 </ul>
   </td>
 </tr>
