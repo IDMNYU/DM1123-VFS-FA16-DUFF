@@ -13,9 +13,8 @@ Post on your class website in grayscale (includes black and white) with interfac
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
 
-#### INTERFACE High-Fidelity Wireframes  
-* Create 3 different versions of your interface as high fidelity wireframes in color
-* Post on your class website with an inteface-hifi-wireframe
+#### INTERFACE Comps
+* Create 3 different comps 
 
 #### INTERFACE Final: High-Fidelity Prototype 
 * Refine selection
