@@ -96,7 +96,11 @@
     <tr>
         <td>13</td>  
         <td>Nov 29<br><strong>PHYSICAL APP FINAL</strong><br>Adobe Indesign Demo</td>
-        <td>Dec 1<br>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Entire Class)</td>
+        <td>Dec 1<br>
+        <ul>
+        <li>VFS Guest Speaker tentatively scheduled</li>
+        <li>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)</li><li><strong>PDF 1st DRAFT</strong> (Entire Class)</li>
+        </ul></td>
     </tr>
     <tr>
         <td>14</td>    
