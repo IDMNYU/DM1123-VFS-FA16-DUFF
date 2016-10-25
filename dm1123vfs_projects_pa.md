@@ -31,8 +31,8 @@ Suggested Service Bureaus for Physical Application
 * http://us.moo.com
 
 Suggested Service Bureaus for Posters
-* NYU SoE Library
-* http://www.nyu.edu/its/ams/
+* NYU Tandon Library
+* https://www.nyu.edu/life/information-technology/locations-and-facilities/laguardia-studio/laguardia-studio-resources.html
 
 DO NOT BE LATE WITH YOUR FINAL PHYSICAL APPLICATION
 
