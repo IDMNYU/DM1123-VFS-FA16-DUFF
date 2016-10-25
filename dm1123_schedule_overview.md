@@ -80,8 +80,8 @@
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>INTERFACE Visual Design 1st Draft (3 Comps or Versions)</strong> (Entire Class)</td>
-        <td>Nov 10<br><strong>INTERFACE Visual Design 2nd Draft–Variations</strong> (Entire Class)</td>
+        <td>Nov 8<br><strong>INTERFACE Comps Versions</strong> (Entire Class)</td>
+        <td>Nov 10<br><strong>INTERFACE Comps Variations</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>11</td>   
