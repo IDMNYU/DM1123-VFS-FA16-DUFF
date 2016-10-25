@@ -63,8 +63,8 @@
     <tr>
         <td>8</td>     
        
-        <td valign="top">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Entire Class)</td>
-        <td valign="top">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
+        <td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Entire Class)</a></td>
+        <td valign="top"><a href="week_8_detail_oct_25.md">Oct 27<br><strong>PHYSICAL APP 2nd Draft–Variations</strong> (Rest of Class)</a></td>
         
     </tr>
     
