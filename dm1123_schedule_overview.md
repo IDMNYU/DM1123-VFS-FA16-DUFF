@@ -72,8 +72,8 @@
     <tr>
         <td>9</td>      
         
-        <td>Nov 1<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
-        <td>Nov 3<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
+        <td>Nov 1<br><strong><a href="week_9_detail_nov_1.md">INTERFACE Wireframes 1st Draft</a></strong> (Entire Class)</td>
+        <td>Nov 3<br><strong><a href="week_9_detail_nov_1.md">INTERFACE Wireframes 2nd Draft</a></strong> (Entire Class)</td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
