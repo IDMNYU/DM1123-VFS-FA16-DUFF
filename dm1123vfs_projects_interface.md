@@ -15,6 +15,8 @@ Post on your class website in grayscale (includes black and white) with interfac
 
 #### INTERFACE Comps
 * Create 3 different comps 
+* Comps is short for compositions
+* A composition is a photoshop or illustrator document that looks exactly like the final interface (color, type, etc.)
 
 #### INTERFACE Final: High-Fidelity Prototype 
 * Refine selection
