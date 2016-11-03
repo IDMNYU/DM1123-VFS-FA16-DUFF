@@ -81,7 +81,7 @@
     <tr>
         <td>10</td>     
         <td>Nov 8<br><a href="week_10_detail_nov_8.md"><strong>INTERFACE Comps Versions</strong> (Entire Class)</a></td>
-        <td>Nov 10<br><a href="week_10_detail_nov_8.md"><strong>INTERFACE Comps Variations</strong></a> (Entire Class)</td>
+        <td>Nov 10<br><a href="week_10_detail_nov_8.md"><strong>INTERFACE Comps Variations</strong> (Entire Class)</a></td>
     </tr>
     <tr>
         <td>11</td>   
