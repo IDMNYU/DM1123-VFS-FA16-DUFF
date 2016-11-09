@@ -18,13 +18,8 @@
   <td valign="top">class</td>
   
 
-  <td valign="top" width="48%">
-
-  </td>
-
-
-  
-  <td valign="top" width="48%">
+  <td valign="top" width="48%"><i>NO CLASS: Instructor out of country for conference</i></td>  
+  <td valign="top" width="48%"><i>NO CLASS: Instructor out of country for conference</i></td>
 
 </tr>
 
