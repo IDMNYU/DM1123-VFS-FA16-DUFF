@@ -10,6 +10,8 @@ We've already discussed several stylistic movements through our creator show and
 * Swiss Design (AKA Swiss Style or International Style) through Josef Muller Brockmann
 * The Punk Aesthetic through Art Chantry
 
+However, it is important that you are also aware of the following:
+
 Stylistic Movement | Team 
 --- | --- 
 Art Deco |
@@ -21,6 +23,7 @@ Futurism |
 New Wave |
 Psychedelic Art (The Fillmore) |
 Semiotics (the study of symbols) |
+House Industries |
 
 
 
@@ -31,6 +34,7 @@ Semiotics (the study of symbols) |
 * Select a design movement during class
 * An excellent starting point for research for some (not all movements) is [http://www.designishistory.com/home](http://www.designishistory.com/home) and obviously images.google.com
 * Create an **8 minutes or less** presentation (pdf, powerpoint, keynote, quicktime, etc.) that shows and discusses your design movement.
+* Concentrate primarily on 2D but you can include 3D objects if you choose.
 * Cite your sources.
 * Decide whether or not you want to mirror your presentation or not (if you're using presentation tools)
   * Get familiar with your display preferences
