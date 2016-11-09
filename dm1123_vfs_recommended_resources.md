@@ -192,11 +192,3 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * [An argument for sketched sitemaps and wireframes/schematics](http://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin)
 
 
-* **Clickable Prototypes**
-  * **HTML5/CSS3: Foundation or Bootstrap**
-  * Keynote/Powerpoint
-  * [Axure](http://www.axure.com)
-  * [UXPin](http://uxpin.com)
-  * The following are not recommended because of cost, but I wanted you to know about them:
-    * [proto.io](http://proto.io)
-    * [Keynotopia](http://keynotopia.com) 
