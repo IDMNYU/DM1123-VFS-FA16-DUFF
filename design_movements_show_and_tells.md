@@ -5,19 +5,25 @@
 # Stylistic MOVEMENTS SHOW & TELLS
 ### Stylistic Movements SHOW & TELL Assignments
 
+We've already discussed several stylistic movements through our creator show and tells: 
+* Russian Constructivism through Alexandr Rodchenko
+* Swiss Design (AKA Swiss Style or International Style) through Josef Muller Brockmann
+* The Punk Aesthetic through Art Chantry
+
 Stylistic Movement | Team 
 --- | --- 
-Russian Constructivism  |
+Art Deco |
+Art Nouveau  |
 Bauhaus  |
-Swiss Design (AKA Swiss Style or International Style) |
-New Wave |
 Dada |
 De Stijl  |
+Futurism | 
+New Wave |
 Psychedelic Art (The Fillmore) |
 Semiotics (the study of symbols) |
-Art Nouveau  |
-Art Deco |
-Futurism | 
+
+
+
 
 
 ### Stylistic Movements SHOW & TELL Directions
