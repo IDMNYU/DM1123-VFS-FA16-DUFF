@@ -33,15 +33,22 @@
 
 <td valign="top">
   <ul>
-<li><strong><a href="dm1123vfs_projects_interface.md"></a></strong> (Entire Class)</li></ul></td>
+<li>Get <a href="dm1123vfs_projects_pa.md">PHYSICAL APP Final</a> printed</li>
+<li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+<ul>
+<li>specifically, InDesign CC Essential Training (2015) with David Blatner</li>
+</ul>
+</ul></td>
 
 <td valign="top">
   <ul>
-
-  <li><strong><a href="dm1123vfs_projects_interface.md"></a></strong> (Entire Class)</li>
+<li>Get <a href="dm1123vfs_projects_pa.md">PHYSICAL APP Final</a> printed</li>
 
   <li><strong>Continue <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
-  </ul></td>
+  <ul>
+<li>specifically, InDesign CC Essential Training (2015) with David Blatner</li>
+</ul></ul>
+  </td>
 </tr>
 </table>
 
