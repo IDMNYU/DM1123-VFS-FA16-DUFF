@@ -16,6 +16,7 @@
    * [Week 11 Detail Nov 15](week_11_detail_nov_15.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
+* [Design Movements Show and Tells](design_movements_show_and_tells.md)
 * [Project: Logo](dm1123vfs_projects_logo.md)
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
@@ -32,5 +33,4 @@
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Tickets to Leave](tickets_to_leave.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [Design Movements Show and Tells](design_movements_show_and_tells.md)
 
