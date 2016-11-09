@@ -22,7 +22,7 @@ Art Deco |
 ### Stylistic Movements SHOW & TELL Directions
 * Pair up w/ 1 classmate 
 * Select a design movement during class
-* A great resource for research is [http://www.designishistory.com/home](http://www.designishistory.com/home)
+* An excellent starting point for research is [http://www.designishistory.com/home](http://www.designishistory.com/home)
 * Create an **8 minutes or less** presentation (pdf, powerpoint, keynote, quicktime, etc.) that shows and discusses your design movement.
 * Cite your sources.
 * Decide whether or not you want to mirror your presentation or not (if you're using presentation tools)
