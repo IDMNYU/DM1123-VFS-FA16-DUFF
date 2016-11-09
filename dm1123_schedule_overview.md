@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><strong>INTERFACE FINAL</strong> (Entire Class)</td>
+        <td><a href="week_12_detail_nov_22.md">Nov 22<br><strong>INTERFACE FINAL</strong> (Entire Class)</a></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
