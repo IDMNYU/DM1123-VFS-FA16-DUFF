@@ -26,18 +26,25 @@
 
 <!-- read -->
 <tr>
-  <td valign="top">read</td>
+  <td valign="top">reread</td>
   
 
+  <td valign="top" width="48%">
+  <ul>
+  <li>Lessons in Typography</li>
+  <ul>
+  <li>particularly, chapter 5: text and layouts</li></ul>
+  <li>Graphic Design The New Basics</li>
+  <li>Notes on Color Theory</li>
+  </ul></td>  
   <td valign="top" width="48%">Reread<br>
   <ul>
   <li>Lessons in Typography</li>
   <ul>
   <li>particularly, chapter 5: text and layouts</li></ul>
   <li>Graphic Design The New Basics</li>
-  <li>Notes on Color Theory<li>
-  </ul></td>  
-  <td valign="top" width="48%"><i>NO CLASS: Instructor out of country for conference</i></td>
+  <li>Notes on Color Theory</li>
+  </ul></td>
 </tr>
 
 <!-- do -->
