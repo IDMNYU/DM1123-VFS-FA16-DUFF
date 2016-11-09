@@ -86,7 +86,7 @@
     <tr>
         <td>11</td>   
         <td>Nov 15<br><a href="week_11_detail_nov_15.md"><i><strong>NO CLASS but homework:</strong> Instructor out of country for conference</i></a></td>
-        <td>Nov 17<br></stro<a href="week_11_detail_nov_15.md"><i><strong>NO CLASS but honmework</strong> Instructor out of country for conference</i></a></td>
+        <td>Nov 17<br><a href="week_11_detail_nov_15.md"><i><strong>NO CLASS but honmework</strong> Instructor out of country for conference</i></a></td>
     </tr>
     <tr>
         <td>12</td>   
