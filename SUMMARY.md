@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
-   * Design Movements Show and Tells
+   * [Design Movements Show and Tells](design_movements_show_and_tells.md)
 * [Schedule](dm1123_schedule_overview.md)
    * [Week 1 Detail Sep 6](week_1_detail_sep_6.md)
    * [Week 2 Detail Sep 13](week_2_detail_sep_13.md)
