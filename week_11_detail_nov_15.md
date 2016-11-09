@@ -26,7 +26,7 @@
 
 <!-- read -->
 <tr>
-  <td valign="top">reread</td>
+  <td valign="top">re-read</td>
   
 
   <td valign="top" width="48%">
