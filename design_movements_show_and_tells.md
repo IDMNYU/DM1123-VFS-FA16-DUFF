@@ -17,12 +17,13 @@ Psychedelic Art (The Fillmore) |
 Semiotics (the study of symbols) |
 Art Nouveau  |
 Art Deco |
+Futurism | 
 
 
 ### Stylistic Movements SHOW & TELL Directions
 * Pair up w/ 1 classmate 
 * Select a design movement during class
-* An excellent starting point for research is [http://www.designishistory.com/home](http://www.designishistory.com/home)
+* An excellent starting point for research for some (not all movements) is [http://www.designishistory.com/home](http://www.designishistory.com/home) and obviously images.google.com
 * Create an **8 minutes or less** presentation (pdf, powerpoint, keynote, quicktime, etc.) that shows and discusses your design movement.
 * Cite your sources.
 * Decide whether or not you want to mirror your presentation or not (if you're using presentation tools)
