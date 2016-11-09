@@ -16,7 +16,7 @@
    * [Week 11 Detail Nov 15](week_11_detail_nov_15.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
-* [Design Movements Show and Tells](design_movements_show_and_tells.md)
+* [Stylistic Movements Show and Tells](design_movements_show_and_tells.md)
 * [Project: Logo](dm1123vfs_projects_logo.md)
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
