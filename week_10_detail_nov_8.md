@@ -28,6 +28,8 @@
   
   <td valign="top" width="48%">
 <ul>
+<li>Discuss next 2 weeks</li>
+<li>Assign <a href="stylisticmovementsshow_and_tells.md">Stylistic Movement Show and Tells</a></li>
 <li><strong><a href="dm1123vfs_projects_interface.md">INTERFACE Comps Variations</a></strong> (Entire Class)</li>
 </ul>
   </td>
