@@ -14,15 +14,15 @@ However, it is important that you are also aware of the following:
 
 Stylistic Movement | Team 
 --- | --- 
-Art Deco |
-Art Nouveau  |
-Bauhaus  |
-Dada |
+Art Deco | Corinna & Cat
+Art Nouveau  | Cheryl & 
+Bauhaus  | Grace & 
+Dada | Jason & Chami
 De Stijl  |
-Futurism | 
-New Wave |
-Psychedelic Art (The Fillmore) |
-Semiotics (the study of symbols) |
+Futurism | Julian & 
+New Wave | Alisa & Phoenix
+Psychedelic Art (The Fillmore) | Lenay & Nick
+Semiotics (the study of symbols) | Lauren & Christy
 House Industries |
 
 
