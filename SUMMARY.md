@@ -35,4 +35,5 @@
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Tickets to Leave](tickets_to_leave.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
+* Project: PDF or Book
 
