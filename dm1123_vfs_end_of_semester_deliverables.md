@@ -40,8 +40,7 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
-## FINAL SELF ASSESSMENT
-
+## Final Self Assessment
 *Include in google drive folder, VFS Fall 2016*
 
 Of Self
@@ -67,7 +66,7 @@ Of The Course
   * Graphic Design: The New Basics
   * Lessons in Typography
 
-## LETTER OR VIDEO TO NEXT COHORT
+## Letter or Video to Next Cohort
 
 *Include in google drive folder, VFS Fall 2016*
 
