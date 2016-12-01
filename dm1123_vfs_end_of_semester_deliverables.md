@@ -4,11 +4,15 @@
 
 # END OF SEMESTER DELIVERABLES
 
-## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
+<ul>
+<li><a href="project_pdf_or_book.md">End of Semester PDF or Book</a></li>
+<li><a href="#dropbox">End of Semester Dropbox Link Requirements</a></a>
+<li><a href="#finalsa">Final Self Assessment</a></li>
+<li><a href="#next">Letter or Video To Next Cohort</a></li>
+</ul>
 
-<a id="#dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a>
-<a href="#finalsa">FINAL SELF ASSESSMENT</a>
-## <a href="dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a> 
+## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
+## <a name="dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a> 
 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
@@ -65,7 +69,7 @@ Of The Course
   * Graphic Design: The New Basics
   * Type On Screen
 
-## LETTER OR VIDEO TO NEXT COHORT
+## <a name="next">LETTER OR VIDEO TO NEXT COHORT</a>
 
 *If letter, direct message a pdf to deangela on Slack.<br>
 If video, dropbox video to deangela on Slack.*
