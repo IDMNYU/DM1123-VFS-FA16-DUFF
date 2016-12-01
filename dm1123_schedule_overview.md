@@ -113,7 +113,7 @@
     </tr>
     <tr>
         <td>15</td>     
-        <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
+        <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
         <td>Dec 15<br><strong>PDF 3rd DRAFT</strong> (Entire Class)</td>
     </tr>
       <tr>  
@@ -129,5 +129,5 @@
     </tr>
 </table>
 
-**Guest Presentation TBD**
+
 
