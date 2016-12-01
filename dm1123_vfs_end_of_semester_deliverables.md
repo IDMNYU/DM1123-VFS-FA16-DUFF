@@ -6,8 +6,8 @@
 
 ## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
 
-<a href="#dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a>
-<a href="#finalsa">FINAL SELF ASSESSMENT</a>
+<div id="#dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</div>
+<div id="#finalsa">FINAL SELF ASSESSMENT</div>
 ## <a href="dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a> 
 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
