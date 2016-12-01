@@ -31,8 +31,12 @@ Create a google drive folder, VFS Fall 2016, with the following folders:
 * 12 End of Semester Book - Final
 
 and files: 
-* Final Self Assessment
 * Letter of Video to Next Cohort
+* End of Semester PDF
+
+If you're creating a book also include:
+* Midterm and Final Self Assessment
+
 
 All assignments should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd)
 
