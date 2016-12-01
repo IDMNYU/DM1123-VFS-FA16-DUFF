@@ -38,7 +38,7 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
-## <a href="finalsa">FINAL SELF ASSESSMENT</a>
+## <div id="finalsa">FINAL SELF ASSESSMENT</div>
 
 *As a pdf, direct message to deangela on Slack.*
 
