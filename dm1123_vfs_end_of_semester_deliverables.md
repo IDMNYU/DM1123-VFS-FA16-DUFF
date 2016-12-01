@@ -4,12 +4,12 @@
 
 # END OF SEMESTER DELIVERABLES
 
-<ul>
+<ol>
 <li><a href="project_pdf_or_book.md">End of Semester PDF or Book</a></li>
 <li><a href="#dropbox">End of Semester Dropbox Link Requirements</a></a>
 <li><a href="#finalsa">Final Self Assessment</a></li>
 <li><a href="#next">Letter or Video To Next Cohort</a></li>
-</ul>
+</ol>
 
 ## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
 ## <a name="dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a> 
