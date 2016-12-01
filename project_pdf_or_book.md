@@ -2,7 +2,7 @@
 ##### Fall 2016 • De Angela L. Duff • Tuesdays 2:30-4:20pm • 2MTC MAGNET 811 
 ---
 
-# End of Semester PDF or Book
+# [End of Semester]([dm1123_vfs_end_of_semester_deliverables.md) PDF or Book
 
 ## PDF
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
