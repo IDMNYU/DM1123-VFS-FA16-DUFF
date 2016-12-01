@@ -22,6 +22,7 @@
 * [Project: Logo](dm1123vfs_projects_logo.md)
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
+* [Project: PDF or Book](project_pdf_or_book.md)
 * [Reading Responses](dm1123vfs_reading_responses.md)
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Assignment: Brand](dm1123_brand.md)
@@ -35,5 +36,4 @@
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Tickets to Leave](tickets_to_leave.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [Project: PDF or Book](project_pdf_or_book.md)
 
