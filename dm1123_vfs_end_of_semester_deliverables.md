@@ -4,24 +4,19 @@
 
 # END OF SEMESTER DELIVERABLES
 
-<a href="project_pdf_or_book.md">End of Semester PDF or Book</a><br>
-<a href="#dropbox">End of Semester Dropbox Link Requirements</a><br>
-<a href="#finalsa">Final Self Assessment</a><br>
-<a href="#next">Letter or Video To Next Cohort</a>
+<ol>
+<li>End of Semester PDF or Book</li>
+<li>End of Semester Dropbox Link Requirements</li>
+<li>Final Self Assessment</li>
+<li>Letter or Video To Next Cohort</li>
+</ol>
 
 
 ## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
-## <a name="dropbox">END OF SEMESTER DROPBOX LINK REQUIREMENTS</a> 
-
-You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
-
-Each student will provide their own dropbox link. A dropbox link is actually different than sharing an actual dropbox folder.
-
-Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
+## END OF SEMESTER GOOGLE DRIVE REQUIREMENTS 
  
-Create a dropbox link with the following contents:
+Create a google drive folder, VFS Fall 2016, with the following folders:
 
-Folders:
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
@@ -34,6 +29,8 @@ Folders:
 * 10 End of Semester Book - 1st draft
 * 11 End of Semester Book - 2nd draft
 * 12 End of Semester Book - Final
+* Final Self Assessment
+* OPTIONAL (Video to Next Cohort) - See below
 
 All assignments should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd)
 
@@ -41,9 +38,9 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
-## <a name="finalsa">FINAL SELF ASSESSMENT</a>
+## FINAL SELF ASSESSMENT
 
-*As a pdf, direct message to deangela on Slack.*
+*Include in google drive folder, VFS Fall 2016*
 
 Of Self
 
@@ -64,13 +61,13 @@ Of The Course
 * What assignment(s) did you like the most and why?
 * What assignment(s) did you like the least and why?
 * What change(s) would you make to this class and why? 
-* Feedback re: required books
+* Feedback re: required books (Did you buy the book(s)? If so, what format (physical or ebook)? Will you continue to refer to them in the future or do you plan on selling them back and why?)
   * Graphic Design: The New Basics
-  * Type On Screen
+  * Lessons in Typography
 
-## <a name="next">LETTER OR VIDEO TO NEXT COHORT</a>
+## LETTER OR VIDEO TO NEXT COHORT
 
 *If letter, direct message a pdf to deangela on Slack.<br>
-If video, dropbox video to deangela on Slack.*
+If video, include in google drive folder, VFS Fall 2016*
 
 Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
