@@ -2,18 +2,18 @@
 ##### Fall 2016 • De Angela L. Duff • Tuesdays 2:30-4:20pm • 2MTC MAGNET 811 
 ---
 
-# END OF SEMESTER DELIVERABLES
+# End of Semester Deliverables
 
 <ol>
 <li>End of Semester PDF or Book</li>
-<li>End of Semester Dropbox Link Requirements</li>
+<li>Native Project Files</li>
 <li>Final Self Assessment</li>
 <li>Letter or Video To Next Cohort</li>
 </ol>
 
 
-## <a href="project_pdf_or_book.md">END OF SEMESTER PDF OR BOOK</a>
-## END OF SEMESTER GOOGLE DRIVE REQUIREMENTS 
+## <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
+## Native Project Files 
  
 Create a google drive folder, VFS Fall 2016, with the following folders:
 
