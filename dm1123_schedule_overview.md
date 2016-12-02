@@ -104,8 +104,8 @@
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Rest of Class)</td>
-        <td>Dec 8<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Entire Class)</td>
+        <td><a href="week_14_detail_dec_6.md">Dec 6<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Rest of Class)</a></td>
+        <td><a href="week_14_detail_dec_6.md">Dec 8<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Entire Class)</a></td>
     </tr>
      <tr>  
         <td>(OPTIONAL) Order Book</td>  
