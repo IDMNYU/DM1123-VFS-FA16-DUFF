@@ -99,13 +99,13 @@
         <td>Dec 1<br>
         <ul>
         <li>VFS Guest Speaker: <a href="http://emilybrick.me/" target="_blank">Emily Brick</a></li>
-        <li>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)</li><li><strong>PDF 1st DRAFT</strong> (Entire Class)</li>
+        <li>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)</li><li><strong>PDF Drafts</strong> (Entire Class)</li>
         </ul></td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>(OPTIONAL) <strong>BOOK 2nd Draft</strong> (Priority)<br><strong>PDF 1st DRAFT</strong> (Rest of Class)</td>
-        <td>Dec 8<br>(OPTIONAL) <strong>BOOK 3rd Draft</strong> (Priority)<br><strong>PDF 2nd DRAFT</strong> (Entire Class)</td>
+        <td>Dec 6<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Rest of Class)</td>
+        <td>Dec 8<br>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)<br><strong>PDF Drafts</strong> (Entire Class)</td>
     </tr>
      <tr>  
         <td>(OPTIONAL) Order Book</td>  
@@ -114,7 +114,7 @@
     <tr>
         <td>15</td>     
         <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
-        <td>Dec 15<br><strong>PDF 3rd DRAFT</strong> (Entire Class)</td>
+        <td>Dec 15<br><strong>PDF Drafts</strong> (Entire Class)</td>
     </tr>
       <tr>  
         <td></td>  
