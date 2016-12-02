@@ -95,12 +95,12 @@
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>PHYSICAL APP FINAL</strong><br>Adobe Indesign Demo</td>
-        <td>Dec 1<br>
+        <td><a href="week_13_detail_nov_29.md">Nov 29<br><strong>PHYSICAL APP FINAL</strong><br>Adobe Indesign Demo</a></td>
+        <td><a href="week_13_detail_nov_29.md">Dec 1<br>
         <ul>
         <li>VFS Guest Speaker: <a href="http://emilybrick.me/" target="_blank">Emily Brick</a></li>
         <li>(OPTIONAL) <strong>BOOK Drafts</strong> (Priority)</li><li><strong>PDF Drafts</strong> (Entire Class)</li>
-        </ul></td>
+        </ul></a></td>
     </tr>
     <tr>
         <td>14</td>    
