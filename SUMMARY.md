@@ -16,7 +16,7 @@
    * [Week 11 Detail Nov 15](week_11_detail_nov_15.md)
    * [Week 12 Detail Nov 22](week_12_detail_nov_22.md)
    * [Week 13 Detail Nov 29](week_13_detail_nov_29.md)
-   * Week 14 Detail Dec 6
+   * [Week 14 Detail Dec 6](week_14_detail_dec_6.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Stylistic Movements Show and Tells](stylisticmovementsshow_and_tells.md)
