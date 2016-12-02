@@ -26,7 +26,7 @@
   <li>Adobe Indesign Demo</li></ul></td>  
   <td valign="top" width="48%"> <ul>
         <li>VFS Guest Speaker: <a href="http://emilybrick.me/" target="_blank">Emily Brick</a></li>
-        <li>(OPTIONAL) <strong>BOOK 1st Draft</strong> (Priority)</li><li><strong>PDF 1st DRAFT</strong> (Entire Class)</li>
+        <li>(OPTIONAL) <strong>BOOK  Drafts</strong> (Priority)</li><li><strong>PDF Drafts</strong> (Entire Class)</li>
         
         </ul></td>
 </tr>
