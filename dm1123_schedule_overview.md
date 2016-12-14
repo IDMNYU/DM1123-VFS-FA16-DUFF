@@ -116,17 +116,18 @@
         <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
         <td>Dec 15<br><strong>PDF Drafts</strong> (Entire Class)</td>
     </tr>
-      <tr>  
-        <td></td>  
-        <td>Fri Dec 16 and Mon Dec 19<br>
-        <strong>INDIVIDUAL ONE on ONES (To Be Scheduled)</strong><br>PDF or Book, Dropbox Link, Letter to Next Cohort &amp; Final Assessment</strong></td>
-        <td></td>
-    </tr>
-    <tr>
+<tr>
         <td>16</td>
         <td>Dec 20<br><strong>Final PDF or Book</strong></td>
         <td></td>
     </tr>
+      <tr>  
+        <td></td>  
+        <td>Fri Dec 20 through Thu Dec 22 at 10am<br>
+        <br><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">End of Semester Deliverables Due</a></strong></td>
+        <td></td>
+    </tr>
+    
 </table>
 
 
