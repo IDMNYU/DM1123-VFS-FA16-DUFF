@@ -5,7 +5,6 @@
 # END OF SEMESTER DELIVERABLES
 
 <ol>
-<li>End of Semester PDF or Book</li>
 <li>Google Drive Folder with Native Project Files</li>
 <li>Final Self Assessment</li>
 <li>Letter or Video To Next Cohort</li>
