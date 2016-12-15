@@ -13,9 +13,7 @@
 
 
 ## <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
-## Native Project Files 
- 
-Create a google drive folder, VFS Fall 2016, with the following folders:
+## Create a google drive folder, VFS Fall 2016 and share with deangela.duff@nyu.edu
 
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
