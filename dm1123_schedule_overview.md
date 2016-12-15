@@ -118,7 +118,7 @@
     </tr>
 <tr>
         <td>16</td>
-        <td>Dec 20<br><strong>Final PDF or Book</strong></td>
+        <td>Dec 20<br><strong><a href="project_pdf_or_book.md">Final PDF or Book</a></strong></td>
          
         <td>Dec 20 - 22 at 10am<br>
         <br><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">End of Semester Deliverables Due</a></strong></td>
