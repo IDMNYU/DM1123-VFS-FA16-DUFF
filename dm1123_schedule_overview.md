@@ -119,11 +119,8 @@
 <tr>
         <td>16</td>
         <td>Dec 20<br><strong>Final PDF or Book</strong></td>
-        <td></td>
-    </tr>
-      <tr>  
-        <td></td>  
-        <td>Fri Dec 20 through Thu Dec 22 at 10am<br>
+         
+        <td>Dec 20 - 22 at 10am<br>
         <br><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">End of Semester Deliverables Due</a></strong></td>
         <td></td>
     </tr>
