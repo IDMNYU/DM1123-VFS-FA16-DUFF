@@ -31,7 +31,7 @@ Create a google drive folder, VFS Fall 2016, with the following folders:
 * 12 End of Semester Book - Final
 
 and files: 
-* Letter of Video to Next Cohort
+* Letter or Video to Next Cohort
 * End of Semester PDF
 
 If you're creating a book also include:
