@@ -47,31 +47,14 @@ Make sure that images are included if they are not embedded within illustrator.
 ## Final Self Assessment
 *Include in google drive folder, VFS Fall 2016*
 
-Of Self
-
-* How has your visual eye changed, since beginning this course? Evaluate your increased awareness and understanding of visual foundation principles, and your specific use of components (color, typography, image), composition, and concept.
-* Describe what specific, visual foundation elements have begun to inform your other work.
-Also, specifically, evaluate the growth of your illustrator, photoshop, and indesign skills and other skillsets as it relates to this course.
-* If your growth is not where you would like it to be, what specific steps will you take to improve your skills?
-What resources have you found to be specifically helpful to you for this course? And why?
-* Did you accomplish your goals that you established at the outset of this course?
-* What other things have you learned in this course?
-
-Of Classmates
-
-* Which classmate(s) inspired you the most and why? Speak to particular project(s) they did.
-
-Of The Course
-
-* What assignment(s) did you like the most and why?
-* What assignment(s) did you like the least and why?
-* What change(s) would you make to this class and why? 
-* Feedback re: required books (Did you buy the book(s)? If so, what format (physical or ebook)? Will you continue to refer to them in the future or do you plan on selling them back and why?)
-  * Graphic Design: The New Basics
-  * Lessons in Typography
+<ul>
+<li>Handed out during class and pinned on slack.</li>
+</ul>
 
 ## Letter or Video to Next Cohort
 
 *Include in google drive folder, VFS Fall 2016*
 
-Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
+<ul>
+<li>Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.</li>
+</ul>
