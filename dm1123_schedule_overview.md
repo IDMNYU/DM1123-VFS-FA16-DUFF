@@ -114,7 +114,7 @@
     <tr>
         <td>15</td>     
         <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
-        <td>Dec 15<br><strong>PDF Drafts</strong> (Entire Class)</td>
+        <td>Dec 15<br><strong><strong><a href="project_pdf_or_book.md">PDF Drafts</a></strong> (Entire Class)</td>
     </tr>
 <tr>
         <td>16</td>
