@@ -34,11 +34,6 @@ and folders:
 * 11 End of Semester Book - 2nd draft
 * 12 End of Semester Book - Final
 
-
-If you're creating a book also include:
-* Midterm and Final Self Assessment
-
-
 All assignments should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd)
 
 Make sure that any type in illustrator has been converted to outlines or include the typeface(s) in the folder(s) instead.
