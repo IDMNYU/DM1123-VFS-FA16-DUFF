@@ -15,7 +15,7 @@
 ## Create a google drive folder, VFS Fall 2016, and share with deangela.duff@nyu.edu
 
 with the following files:
-* <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
+* <a href="project_pdf_or_book.md">End of Semester</a>
 * Letter or Video to Next Cohort (Description at end of this page.)
 
 and folders:
