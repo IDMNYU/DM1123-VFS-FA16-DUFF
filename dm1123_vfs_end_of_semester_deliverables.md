@@ -5,8 +5,9 @@
 # END OF SEMESTER DELIVERABLES
 
 <ol>
-<li>Google Drive Folder with Native Project Files</li>
-<li>Final Self Assessment</li>
+<li><a href="project_pdf_or_book.md">End of Semester PDF</a></li>
+<li>Native Project Files</li>
+<li>Final and Midterm Self Assessments</li>
 <li>Letter or Video To Next Cohort</li>
 </ol>
 
