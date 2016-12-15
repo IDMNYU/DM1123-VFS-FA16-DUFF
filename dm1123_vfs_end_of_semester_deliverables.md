@@ -17,7 +17,7 @@
 
 with the following files:
 * <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
-* Letter or Video to Next Cohort (at end of this page)
+* Letter or Video to Next Cohort (Description at end of this page.)
 
 and folders:
 * 01 Logo–1st draft
