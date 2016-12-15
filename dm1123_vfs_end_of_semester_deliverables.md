@@ -49,6 +49,7 @@ Make sure that images are included if they are not embedded within illustrator.
 
 <ul>
 <li>Handed out during class and pinned on slack.</li>
+<li>If you already included the final self assessment in your book, just fill out the left column of the final self assessment handout.
 </ul>
 
 ## Letter or Video to Next Cohort
