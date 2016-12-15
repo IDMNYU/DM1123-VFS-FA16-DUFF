@@ -6,15 +6,20 @@
 
 <ol>
 <li>End of Semester PDF or Book</li>
-<li>Native Project Files</li>
+<li>Google Drive Folder with Native Project Files</li>
 <li>Final Self Assessment</li>
 <li>Letter or Video To Next Cohort</li>
 </ol>
 
 
-## <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
-## Create a google drive folder, VFS Fall 2016 and share with deangela.duff@nyu.edu
+## 
+## Create a google drive folder, VFS Fall 2016, and share with deangela.duff@nyu.edu
 
+with the following files:
+* <a href="project_pdf_or_book.md">End of Semester PDF or Book</a>
+* Letter or Video to Next Cohort (at end of this page)
+
+and folders:
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
@@ -28,9 +33,6 @@
 * 11 End of Semester Book - 2nd draft
 * 12 End of Semester Book - Final
 
-and files: 
-* Letter or Video to Next Cohort
-* End of Semester PDF
 
 If you're creating a book also include:
 * Midterm and Final Self Assessment
