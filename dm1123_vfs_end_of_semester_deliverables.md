@@ -6,9 +6,9 @@
 
 <ol>
 <li><a href="project_pdf_or_book.md">End of Semester PDF</a></li>
-<li>Native Project Files</li>
-<li>Final and Midterm Self Assessments</li>
-<li>Letter or Video To Next Cohort</li>
+<li>Native Project Files (see description below)</li>
+<li>Final and Midterm Self Assessments (see description below)</li>
+<li>Letter or Video To Next Cohort (see description below)</li>
 </ol>
 
 
